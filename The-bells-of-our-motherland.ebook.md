@@ -5,9 +5,9 @@
 # * @license   MIT, http://www.opensource.org/licenses/mit-license.php
 # */
 
-
+<div align="justify">
 Vào các năm cuối thập kỷ 80 của thế kỷ 19, người Pháp đã xây dựng ở Việt Nam một hệ thống thông tin tương đối đầy đủ cả Bưu chính, điện báo, điện thoại.
-
+</div>
 Từ bài viết @1 :
 Ngay sau khi tấn công Sài Gòn năm 1859 và chưa chính thức đặt bộ máy cai trị tại đây, các đô đốc Pháp đã nghĩ ngay đến việc thiết lập hệ thống điện báo để đảm bảo liên lạc thông suốt và nhanh chóng giữa các đơn vị quân viễn chinh. Ngày 18.3.1860, Đại tá hải quân Pháp Dariès được cử đến Sài Gòn, và không đầy một tháng sau, cụ thể là ngày 11.4.1860, ông ta thành lập tại thành phố này Phòng Bưu chính đầu tiên của người Pháp tại Đông Dương, được điều hành bởi viên chức hành thu thuế tại thành phố.
 

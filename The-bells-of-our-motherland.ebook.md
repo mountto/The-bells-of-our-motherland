@@ -7,13 +7,13 @@
 
 <div align="justify">
 Vào các năm cuối thập kỷ 80 của thế kỷ 19, người Pháp đã xây dựng ở Việt Nam một hệ thống thông tin tương đối đầy đủ cả Bưu chính, điện báo, điện thoại.
-</div>
+
 Từ bài viết @1 :
 Ngay sau khi tấn công Sài Gòn năm 1859 và chưa chính thức đặt bộ máy cai trị tại đây, các đô đốc Pháp đã nghĩ ngay đến việc thiết lập hệ thống điện báo để đảm bảo liên lạc thông suốt và nhanh chóng giữa các đơn vị quân viễn chinh. Ngày 18.3.1860, Đại tá hải quân Pháp Dariès được cử đến Sài Gòn, và không đầy một tháng sau, cụ thể là ngày 11.4.1860, ông ta thành lập tại thành phố này Phòng Bưu chính đầu tiên của người Pháp tại Đông Dương, được điều hành bởi viên chức hành thu thuế tại thành phố.
 
 Không lâu sau, với tư cách Giám đốc Dân sự vụ, Dariès giao cho Chánh sở Điện báo Wattebled nhiệm vụ chỉ huy việc xây dựng các đường dây điện báo trong vùng. Kế hoạch ban đầu là thiết lập trước đường dây điện báo Sài Gòn - Biên Hòa dài 28 km, sau đó sẽ kéo dài đến Bà Rịa và Cap Saint-Jacques (Vũng Tàu).
 Theo Charles Lemire - lúc bấy giờ là một viên chức ngành điện báo, sau là Công sứ Pháp ở Đông Dương, đường dây điện báo Sài Gòn - Biên Hòa được người Pháp khánh thành ngày 27.3.1862. Việc thiết kế và thi công gặp rất nhiều khó khăn do điều kiện vật chất, kỹ thuật vào thời đó. Đường bộ bị chia cách bởi một con kênh cách Sài Gòn 8 km và một nhánh sông ở Biên Hòa. Để giải quyết vấn đề này, người Pháp đặt đường dây cáp ngầm ở những chỗ cắt.
-
+</div>
 18 giờ 30 phút ngày hôm ấy, hai bờ sông Đồng Nai được nối liền, bức điện báo đầu tiên trong lịch sử viễn thông VN gửi đi từ Biên Hòa nhận được tại Sài Gòn sau 2 phút (theo L.Malleret - Bulletin de la Société des Etudes Indochinoises - 1936).
 Đường dây điện báo thứ hai dài 7 km, nối liền Sài Gòn - Chợ Lớn, khánh thành ngày 17.4.1862. Lúc bấy giờ, việc xây dựng các cơ sở hành chánh đã không được thực hiện một cách suôn sẻ, và văn phòng điện báo cũng chịu chung tình trạng này. Theo Jean Bouchot, tác giả quyển La naissance et les premières années de Saigon (Sự ra đời và những năm đầu tiên của thành phố Sài Gòn - Saigon 1927), văn phòng điện báo lúc bấy giờ chỉ là 2 ngôi nhà thấp lợp ngói phẳng nằm giữa một khu vườn được bao quanh bằng một hàng rào tre trúc. Người ta dựng lên 2 cây sào mang tấm biển với một chữ duy nhất "Télégraphe" (Điện báo). Quảng trường nơi xây dựng trụ sở điện báo đầu tiên thời đó được gọi là "Quảng trường Đồng hồ" (Place de l'Horloge) nằm ở góc đường Catinat và De la Grandière (nay là đường Đồng Khởi và đường Lý Tự Trọng).
 Năm 1870, văn phòng điện báo vẫn còn nằm tại Quảng trường Đồng hồ, trên con đường De la Grandière, cùng với Nha Giám đốc Nội vụ (Direction de l'Intérieur), mà báo chí thời đó gọi là "Dinh Thượng thơ". Không lâu sau, người Pháp phá hủy nhiều nhà cửa nằm trong khu vực này, lấy đất bổ sung cho công trình san lấp con kênh lớn, biến nơi đó thành đại lộ Charner (nay là đường Nguyễn Huệ, TP.HCM).

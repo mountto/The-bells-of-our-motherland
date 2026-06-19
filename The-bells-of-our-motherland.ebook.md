@@ -90,6 +90,8 @@ Từ năm 1933 trở đi, Tổng đài tự động Strowger sau đó được t
 <p>
 Hệ thống Rotary (7A/7B): Do IT&T/LMT cung cấp, chuyên dùng cho các thành phố lớn có mật độ cuộc gọi dày đặc như Paris.</p>
 <p>Hệ thống R6: của kỹ sư người Pháp Barnay được chuẩn hóa và triển khai cho các thành phố và thị trấn quy mô trung bình.</p>
+<p>
+Trong quá trình hiện đại hóa mạng lưới viễn thông thuộc địa, hệ thống tổng đài tự động quay số (bao gồm các công nghệ chuyển mạch của Thomson-Houston và hệ thống R6) đã được chính quyền Đông Dương xem xét đưa vào hạ tầng bưu điện nhằm kết nối mạng lưới các thành phố quan trọng như Hà Nội (Tonkin) và Sài Gòn (Cochinchine).</p>
 
 
 Năm 1922 : cơ sở vô tuyến điện ở Bắc bộ được thành lập với hai trung tâm liên lạc vô tuyến: 

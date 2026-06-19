@@ -82,10 +82,15 @@ Sau năm 1894, thị trường bùng nổ cho các nhà sản xuất độc lậ
 
 Tổng đài điện thoại tự động đầu tiên là tổng đài điều khiển trực tiếp Strowger được thiết kế cho việc chuyển mạch nội đô (nội hạt) với tối đa năm chữ số.
 (Lưu ý: điều khiển trực tiếp có nghĩa là bàn phím điện thoại xác định trình tự chuyển đổi các công tắc để chọn đầu ra mục tiêu, tức là một thuê bao khác.)
+<p>
 Và Hệ thống tổng đài bán tự động Rotary 7A 
-dùng công nghệ Western Electric's rotary, sau đó là Hệ thống tổng đài tự động Rotary 7A1.
+dùng công nghệ Western Electric's rotary, sau đó là Hệ thống tổng đài tự động Rotary 7A1.</p>
+<p>
+Từ năm 1933 trở đi, Tổng đài tự động Strowger sau đó được thay thế bằng tổng đài R6 ( Rotary No. 6 ).</p>
+<p>
+Hệ thống Rotary (7A/7B): Do IT&T/LMT cung cấp, chuyên dùng cho các thành phố lớn có mật độ cuộc gọi dày đặc như Paris.</p>
+<p>Hệ thống R6: Được chuẩn hóa và triển khai cho các thành phố và thị trấn quy mô trung bình.</p>
 
-Từ năm 1933 trở đi, Tổng đài tự động Strowger sau đó được thay thế bằng tổng đài R6 ( Rotary No. 6 ).
 
 Năm 1922 : cơ sở vô tuyến điện ở Bắc bộ được thành lập với hai trung tâm liên lạc vô tuyến: 
 	 Một trung tâm ở Bạch Mai (ngã Tư Vọng) là trung tâm phát tín và một trung tâm thu tín ở số nhà 4 Phố Phạm Ngũ Lão. 

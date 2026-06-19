@@ -12,6 +12,7 @@ Ngày 18.3.1860 : Đại tá hải quân Pháp Dariès được cử đến Sài
 <p>Ngày 27.3.1862 : Khánh thành đường dây điện báo Sài Gòn - Biên Hòa dài 28 km, sau đó sẽ kéo dài đến Bà Rịa và Cap Saint-Jacques (Vũng Tàu). 18 giờ 30 phút ngày hôm ấy, hai bờ sông Đồng Nai được nối liền, bức điện báo đầu tiên trong lịch sử viễn thông VN gửi đi từ Biên Hòa nhận được tại Sài Gòn sau 2 phút (theo L.Malleret - Bulletin de la Société des Etudes Indochinoises - 1936).</p>
 <p>
 Ngày 17.4.1862 : Khánh thành Đường dây điện báo thứ hai dài 7 km, nối liền Sài Gòn - Chợ Lớn.  </p>
+<p>Ngày 17/6/1867 mở đường dây thép Mỹ Tho - Cái Bè, và về sau Cái Bè - Cái Thia và Cái Bè - Cai Lậy.</p>
 <p>
 Văn phòng điện báo lúc bấy giờ chỉ là 2 ngôi nhà thấp lợp ngói phẳng nằm giữa một khu vườn được bao quanh bằng một hàng rào tre trúc. Người ta dựng lên 2 cây sào mang tấm biển với một chữ duy nhất "Télégraphe" (Điện báo). Quảng trường nơi xây dựng trụ sở điện báo đầu tiên thời đó được gọi là "Quảng trường Đồng hồ" (Place de l'Horloge) nằm ở góc đường Catinat và De la Grandière (nay là đường Đồng Khởi và đường Lý Tự Trọng).</p>
 <p>Năm 1870, văn phòng điện báo vẫn còn nằm tại Quảng trường Đồng hồ, trên con đường De la Grandière, cùng với Nha Giám đốc Nội vụ (Direction de l'Intérieur), mà báo chí thời đó gọi là "Dinh Thượng thơ". Không lâu sau, người Pháp phá hủy nhiều nhà cửa nằm trong khu vực này, lấy đất bổ sung cho công trình san lấp con kênh lớn, biến nơi đó thành đại lộ Charner (nay là đường Nguyễn Huệ, TP.HCM).
@@ -28,12 +29,16 @@ Văn phòng điện báo lúc bấy giờ chỉ là 2 ngôi nhà thấp lợp ng
 </p>
 <p>Nam kỳ có 1692 km đường dây điện báo vào năm 1882</p>
 <p>Năm 1883 : người Pháp lập bưu cục bưu chính tại Hà Nội. </p>
+<p>Trong phiên họp ngày 7/6/1883 Hội đồng Tư mật cho phép thiết lập đường dây vô tuyến Bạc Liêu - Sóc Trăng. Đến ngày 21/4/1884 Giám đốc Sở Bưu điện gửi thư báo tin công trình đã hoàn thành có thể mở cho dân chúng dùng. Nghị định ngày 27/4/1884 cho phép mở cho dân chúng dùng từ ngày 28/4/1884 ở Bạc Liêu để liên lạc với tất cả các trạm khắp Nam Kỳ.</p>
 
 <p>Mạng lưới phía bắc và phía nam của Đông Dương được kết nối thông qua một cáp ngầm từ Mũi Saint-Jacques đến Thuận An (gần Huế), kéo dài đến Đô Sơn (gần Hải Phòng). Tuyến đường này được đưa vào sử dụng ngày 1 tháng 2 năm 1884. Một tuyến đường bộ Phnom Penh - Bangkok được khai trương năm 1883, và ba tuyến kết nối với miền nam Trung Quốc được thiết lập vào năm 1891.</p>
 <p>Năm 1884 : người Pháp khởi công xây dựng công trình đường dây hữu tuyến Hà Nội - Sài gòn dài gần 2000km, đồng thời họ còn xây dựng đường dây Hà Nội – Hải Phòng. 
 Tuyến cáp biển Vũng Tàu - Đồ Sơn có các nhánh rẽ vào Đà Nẵng, Huế, Vinh và các tuyến dây trần Hải Phòng - Hà Nội. </p>
+<p>Năm 1884 : người Pháp kéo dây điện tín chạy suốt chiều dài đất nước ta 2.000 km, đi từ Hà Nội vào đến Sài Gòn, qua các thành phố Vinh, Huế, Đà Nẵng, Quy Nhơn (lúc đó thành phố Nha Trang chưa xây dựng).</p>
 
 <p>Trạm ở Mũi St. James - Vũng Tàu 
+Tại Vũng Tàu có hai tòa lâu đài được xây dựng. Một tòa của chính phủ Pháp đặt làm văn phòng và nơi ở của nhân viên Pháp. Một tòa của công ty Cable Eastern Extension hoàn toàn làm nhà ở của nhân viên công ty. Cách xa một vài nhà tranh là nơi đồn trú của một đơn vị pháo binh bảo vệ trạm truyền tin .
+
 Đó là một thuộc địa nhỏ kỳ lạ ở Mũi St. James, với khoảng mười hai người Anh phục vụ cho đường dây cáp của Anh, ba hoặc bốn người Pháp phục vụ cho đường dây cáp của Pháp, nửa tá hoa tiêu, và một vài người Sài Gòn ốm yếu đến khách sạn. Các thợ điện nhận đồ tiếp tế bằng xuồng từ Sài Gòn mỗi sáng Chủ nhật, và trong suốt phần còn lại của tuần, phương tiện liên lạc duy nhất của họ với thế giới bên ngoài là qua đường dây ngoằn ngoèo nhỏ giọt không ngừng từ cái ống nhỏ xíu của máy ghi âm của Sir William Thompson. Và điều này cũng chẳng giúp ích gì nhiều cho họ, vì ngay cả tin tức cũng được mã hóa. Những tàu hơi nước chở thư lớn của Pháp đi ngang qua họ hai lần một tuần, và một vài tàu hơi nước khác chạy đến Sài Gòn để chở gạo cũng đón một hoa tiêu. Công ty cung cấp cho họ đầy đủ báo chí, và họ có một bàn bi-a tuyệt vời, nhưng cuộc sống của họ không hạnh phúc. Vào Chủ nhật, khi có đồ tiếp tế mới, họ ăn uống no say. Vào thứ Hai, họ lại ăn uống no say, vì tất cả thịt phải được nấu ngay lập tức. Vào thứ Ba, thịt nguội. Vào thứ Tư, món hầm. Thứ Năm, lại quay về với thịt đóng hộp, và đến thứ Sáu thì có lẽ chẳng còn bánh mì hay đá lạnh nào ở Mũi Hảo Vọng nữa. Rồi cơn sốt cũng lại hoành hành trong số họ. Khuôn mặt tái nhợt, đầy sẹo vì rôm sảy và những khó chịu khác về thể chất của khí hậu nhiệt đới ẩm ướt, là lời nhắc nhở đau lòng rằng những bức điện tín tiện lợi của chúng ta, giống như mọi thứ khác mà chúng ta được hưởng, đều đồng nghĩa với sự hy sinh của ai đó. Nhân viên của Công ty Đông phương ở khắp mọi nơi đều là những người đồng hương thông minh và hiếu khách nhất mà du khách Anh ở Viễn Đông có thể gặp, và trạm ở Mũi St. James đã trở thành như một ngôi nhà đối với tôi trong vài ngày. Rất nhiều điều lãng mạn gắn liền với nhịp đập xa xôi này của thế giới rộng lớn. [...] Có một lần, người trực đêm bị một con hổ đến thăm khi đang làm việc với thiết bị của mình.</p>
 
 <p>1886 : Bưu điện Sài Gòn được xây dựng lại theo thiết kế của kiến ​​trúc sư Auguste Henri Vildeu, với mục tiêu tạo ra một tòa nhà lớn hơn và trang nhã hơn để đáp ứng nhu cầu ngày càng tăng của thành phố.</p>
@@ -43,6 +48,24 @@ Tuyến cáp biển Vũng Tàu - Đồ Sơn có các nhánh rẽ vào Đà Nẵn
 <p>Năm 1889, người Pháp cho xây dựng tổng đài điện thoại tại Hà Nội (là tổng đài loại nhân công tiếp dây với khởi đầu 800 số.)</p>
 <p>1891 : Bưu điện Sài Gòn được thiết kế mới chính thức khánh thành, thể hiện một công trình kiến ​​trúc ấn tượng và hoành tráng.</p>
 <p>1894 : Hệ thống điện thoại tiên tiến đầu tiên được giới thiệu tại Sài Gòn.(là tổng đài loại nhân công tiếp dây.)</p>
+
+Để liên lạc với nước ngoài, ngày 16/7/1883 chính quyền thực dân Pháp mở đường dây điện tín Sài Gòn - Bangkok, thủ đô nước Xiêm, mở cho ngành thương mại. Ngày 20/5/1889 nối đường dây điện tín sang Trung Hoa, qua cửa khẩu Lào Cai.
+
+Để điều hành các hoạt động của các cơ quan khác nhau của ngành Bưu điện, năm 1893 chính quyền Pháp cho thành lập Sở Điện tín Đông Dương (Service télégraphique de l’Indochine). 
+
+Đi trước hơn cả các xứ Đông Dương, ngày 1/4/1893 chính quyền thực dân Pháp ban hành Nghị định thiết lập hệ thống điện thoại trong 2 thành phố Sài Gòn và Chợ Lớn.
+
+Qua năm sau, Nghị định ngày 28/6/1894 cho phép cơ quan Điện thoại tại Sài Gòn đi vào hoạt động kể từ ngày 1/7/1894 và Nghị định ngày 17/5/1895 cho phép cơ quan Điện thoại thành phố Chợ Lớn bắt đầu hoạt động từ ngày 1/6/1895. 
+
+Năm 1906 thành lập Sở Vô tuyến điện thoại Đông Dương (Service radio télégraphique de l’Indochine). Ngày 19/4/1906 đường dây điện thoại Hà Nội - Sài Gòn đi vào hoạt động. Sau đó mở rộng xuống các thành phố và các tỉnh đồng bằng sông Cửu Long, như Sài Gòn - Mỹ Tho ngày 24/10/1912, ra miền Trung như Hội An, Đà Nẵng ngày 26/9/1913, v.v…
+
+Ngày 30/4/1909, Toàn quyền Đông Dương ban hành Nghị định thành lập Sở Vô tuyến điện (Service Radio), giao cho Trung úy Péri là người đã thí nghiệm thành công tháp chuông nhà thờ Hà Nội làm cột ăng-ten, làm Giám đốc. Sau đó thiết lập hai trạm ở ngoài Bắc và Vũng Tàu. Tại Sài Gòn mãi đến năm 1920 mới có.
+Ngày 21/6/1922, Toàn quyền Đông Dương ký hợp đồng với Công ty Vô tuyến điện Pháp (Compagnie générale de T.S.F.) trang bị kỹ thuật cho một trung tâm vô tuyến điện mới được xây dựng ở Sài Gòn (tức Trung tâm phát tín Phú Thọ). Bấy giờ ở Nam Kỳ đã có các trạm phát tín ở Sài Gòn, Mỹ Tho, Côn Đảo, Phú Quốc và Đà Lạt. Toàn hệ thống nối Sài Gòn với Hà Nội.
+
+Ngày 7/2/1927, Toàn quyền Đông Dương ký Nghị định sáp nhập Sở Vô tuyến điện thoại với Sở Bưu chính và Điện báo làm một và gọi là Sở Bưu điện và Vô tuyến điện thoại (Service des Postes et Radio télégraphique). Từ đó cơ quan này điều khiển và khai thác 16 trạm trong toàn quốc.
+
+Ngoài ra Trung tâm phát tín Phú Thọ ở Sài Gòn được thiết lập với sự đầu tư kỹ thuật của Tổng công ty Vô tuyến điện Pháp có công suất rất mạnh. Trung tâm này đặt cơ sở phát ở Phú Thọ và thu ở Thủ Đức, văn phòng đặt tại Sài Gòn, có khả năng thu phát, liên lạc với trung tâm ở Bordeaux bên Pháp. Với hợp đồng ký ngày 2/4/1929, từ ngày 10/4/1930 Sài Gòn đã điện thoại trực tiếp với nước Pháp.
+
 
 Tổng đài thủ công: Các tổng đài điện thoại tại Việt Nam phụ thuộc hoàn toàn vào các điện thoại viên (bằng con người) vận hành các bảng cắm (plug-boards) hoặc bàn chuyển mạch.
 Cách thức hoạt động: Khi một thuê bao nhấc máy, một lá cờ chỉ báo sẽ hạ xuống hoặc một chiếc đèn sẽ sáng lên trên bảng điều khiển thẳng đứng. Điện thoại viên sẽ trả lời bằng cách dùng một dây cắm linh hoạt (dây trả lời), hỏi số điện thoại cần gọi, rồi cắm đầu dây đổ chuông tương ứng vào ổ cắm (jack) của đường dây thuê bao nhận.

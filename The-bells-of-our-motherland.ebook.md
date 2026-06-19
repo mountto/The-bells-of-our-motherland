@@ -133,6 +133,11 @@ Kết luận
 Tài liệu này cho thấy sự phát triển mạnh mẽ của mạng lưới vô tuyến điện báo và điện thoại ở Đông Dương thuộc Pháp, từ những trạm nhỏ phục vụ quân sự đến hệ thống liên lạc quốc tế hiện đại, góp phần quan trọng vào phát triển kinh tế, an ninh và hội nhập khu vực.
 
 
+<p>
+Hệ thống điện báo in (Printing Telegraph) do David Edward Hughes phát minh vào năm 1855 là thiết bị liên lạc mang tính cách mạng, thay thế mã Morse bằng bàn phím kiểu đàn piano. Người gửi gõ chữ nào, máy sẽ tự động in chữ đó trên dải giấy ở đầu nhận.</p><p>
+Hệ thống này từng được mạng lưới viễn thông thuộc địa Pháp sử dụng rộng rãi, trong đó có cả khu vực Bắc Kỳ (Tonkin),Trung Kỳ và Nam Kỳ để truyền tin tức, công điện và báo chí nhanh chóng hơn.</p><p>
+Cơ chế hoạt động: Thiết bị này sử dụng bàn phím tương tự đàn piano. Khi người gửi bấm một phím, hệ thống sẽ gửi một xung điện đi. Ở đầu nhận, một bánh xe chữ quay đồng bộ với đầu gửi sẽ in trực tiếp ký tự lên dải băng giấy. Nó cho phép gửi và in ra văn bản nhanh hơn rất nhiều so với cách truyền tin bằng mã Morse thủ công.</p>
+
 
 </div>
 <p>Tham khảo:</p>

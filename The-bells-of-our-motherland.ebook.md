@@ -69,7 +69,9 @@ Ngoài ra Trung tâm phát tín Phú Thọ ở Sài Gòn được thiết lập 
 <p>
 Các thiết bị khác nhau tại tổng đài điện báo và điện thoại loại nhân công tiếp dây.</p>
 ở đây là phòng điều khiển cho phép kết nối giữa những người gọi. Kết nối này, được gọi là "chuyển mạch điện thoại", được thực hiện thủ công.
-![Hình 1](https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353399_1_1.jpg)
+<p align="center">
+  <img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353399_1_1.jpg" alt="Centered Logo">
+</p>
 <p>
 Tổng đài thủ công: Các tổng đài điện thoại tại Việt Nam phụ thuộc hoàn toàn vào các điện thoại viên (bằng con người) vận hành các bảng cắm (plug-boards) hoặc bàn chuyển mạch.</p>
 <p>

@@ -68,7 +68,8 @@ Ngày 7/2/1927, Toàn quyền Đông Dương ký Nghị định sáp nhập Sở
 Ngoài ra Trung tâm phát tín Phú Thọ ở Sài Gòn được thiết lập với sự đầu tư kỹ thuật của Tổng công ty Vô tuyến điện Pháp có công suất rất mạnh. Trung tâm này đặt cơ sở phát ở Phú Thọ và thu ở Thủ Đức, văn phòng đặt tại Sài Gòn, có khả năng thu phát, liên lạc với trung tâm ở Bordeaux bên Pháp. Với hợp đồng ký ngày 2/4/1929, từ ngày 10/4/1930 Sài Gòn đã điện thoại trực tiếp với nước Pháp.</p>
 
 <p>
-Tổng đài thủ công: Các tổng đài điện thoại tại Việt Nam phụ thuộc hoàn toàn vào các điện thoại viên (bằng con người) vận hành các bảng cắm (plug-boards) hoặc bàn chuyển mạch.
+Tổng đài thủ công: Các tổng đài điện thoại tại Việt Nam phụ thuộc hoàn toàn vào các điện thoại viên (bằng con người) vận hành các bảng cắm (plug-boards) hoặc bàn chuyển mạch.</p>
+<p>
 Cách thức hoạt động: Khi một thuê bao nhấc máy, một lá cờ chỉ báo sẽ hạ xuống hoặc một chiếc đèn sẽ sáng lên trên bảng điều khiển thẳng đứng. Điện thoại viên sẽ trả lời bằng cách dùng một dây cắm linh hoạt (dây trả lời), hỏi số điện thoại cần gọi, rồi cắm đầu dây đổ chuông tương ứng vào ổ cắm (jack) của đường dây thuê bao nhận.</p>
 <p>
 Vào năm 1894, công nghệ chuyển mạch tự động (như hệ thống Strowger "Step-by-Step" của Mỹ được cấp bằng sáng chế năm 1891) vẫn chưa được áp dụng tại Việt Nam.</p>

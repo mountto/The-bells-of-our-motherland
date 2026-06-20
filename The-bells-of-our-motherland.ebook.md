@@ -67,11 +67,24 @@ Ngày 7/2/1927, Toàn quyền Đông Dương ký Nghị định sáp nhập Sở
 <p>
 Ngoài ra Trung tâm phát tín Phú Thọ ở Sài Gòn được thiết lập với sự đầu tư kỹ thuật của Tổng công ty Vô tuyến điện Pháp có công suất rất mạnh. Trung tâm này đặt cơ sở phát ở Phú Thọ và thu ở Thủ Đức, văn phòng đặt tại Sài Gòn, có khả năng thu phát, liên lạc với trung tâm ở Bordeaux bên Pháp. Với hợp đồng ký ngày 2/4/1929, từ ngày 10/4/1930 Sài Gòn đã điện thoại trực tiếp với nước Pháp.</p>
 <p>
-Các thiết bị khác nhau tại tổng đài điện báo và điện thoại loại nhân công tiếp dây.</p>
-ở đây là phòng điều khiển cho phép kết nối giữa những người gọi. Kết nối này, được gọi là "chuyển mạch điện thoại", được thực hiện thủ công.
+## Các thiết bị khác nhau tại tổng đài điện báo và điện thoại loại nhân công tiếp dây.</p>
+
 <p align="center">
-  <img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353399_1_1.jpg" alt="Centered Logo">
+Phòng tổng đài:
+ở đây là phòng điều khiển cho phép kết nối giữa những người gọi. Kết nối này, được gọi là "chuyển mạch điện thoại", được thực hiện thủ công.
+  <img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353399_1_1.jpg" alt="Phòng tổng đài">
 </p>
+<p align="center">
+Phòng mã Morse và máy phát tín hiệu âm thanh:
+ở đây là các thiết bị được sử dụng để gửi và nhận điện báo mã Morse. "Máy phát âm thanh" trong chú thích gốc đề cập đến các máy phát âm thanh điện báo giúp cho các tin nhắn mã Morse nhận được có thể nghe được.
+<img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353403_1_1.jpg" alt="">
+</p>
+
+
+
+
+
+
 <p>
 Tổng đài thủ công: Các tổng đài điện thoại tại Việt Nam phụ thuộc hoàn toàn vào các điện thoại viên (bằng con người) vận hành các bảng cắm (plug-boards) hoặc bàn chuyển mạch.</p>
 <p>

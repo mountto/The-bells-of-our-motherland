@@ -310,6 +310,7 @@ Trung tâm Phát thanh Sài Gòn. - Do Tổng công ty Điện báo Không dây 
 
 <p align="center">
 
+Trung tâm Vô tuyến Sài Gòn. - Do Tổng công ty Điện báo Không dây vận hành thay mặt cho Khu dân cư: Trung tâm Truyền tải Phú Đảo. - Trạm tự điều chỉnh FZG 3 kW / Trung tâm Truyền tải Phú Đảo. - Các trạm thạch anh 15 kW = FZR và FZS
 
 <img src="https://github.com/mountto/The-bells-of-our-motherland/blob/main/hinh%2FGallin-L%2FScreenshot_20260622_153549_Adobe%20Acrobat.jpg" alt="">
 </p>

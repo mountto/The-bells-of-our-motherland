@@ -1,1 +1,1 @@
-Hình ảnh có bản quyền.
+Hình ảnh có bản quyền. Trích từ Lịch sử Dịch vụ Điện báo Vô tuyến Đông Dương từ khi thành lập (1909) đến cuối năm 1930.

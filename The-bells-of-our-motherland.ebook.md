@@ -228,6 +228,97 @@ Thành phần khác trong ảnh
 
 Phần dưới của bức ảnh thể hiện Trạm duyên hải Kiến An (gần Hải Phòng). Đây từng là một trong những trạm quan trọng nhất Đông Dương nhằm kết nối liên lạc với tàu bè trên biển và các trạm quốc tế.
 
+
+
+<p align="center">
+
+
+<img src="https://github.com/mountto/The-bells-of-our-motherland/blob/main/hinh%2FGallin-L%2FScreenshot_20260622_150418_Adobe%20Acrobat.jpg" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+
+<img src="" alt="">
+</p>
+
+
+
+
+
 </div>
 <p>Tham khảo:</p>
 

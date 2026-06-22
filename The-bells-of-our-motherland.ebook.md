@@ -255,9 +255,13 @@ Cơ chế hoạt động: Thiết bị này sử dụng bàn phím tương tự 
 
 <p align="center">
 Bức ảnh hiển thị phòng điều hành của Trạm BCR (Bureau Central Radioélectrique - Cục Vô tuyến điện Trung ương) tại Hà Nội, nằm trên phố Galliéni (nay là phố Tràng Thi). Trạm này là một phần không thể tách rời của hệ thống vô tuyến điện Đông Dương thuộc Pháp vào đầu thế kỷ 20.
+
 Chi tiết về Trạm Hà Nội
+
 Chức năng: Trạm được dùng để kiểm soát phát sóng và điều khiển từ xa các thiết bị vô tuyến. Hệ thống giúp kết nối Hà Nội với các địa điểm chiến lược khác như Sài Gòn, Hồng Kông, Vân Nam Phủ (Trung Quốc) và Philippines.
+
 Thiết bị: Trong hình là các thiết bị điện báo không dây (TSF) và máy thu sóng ngắn (OC) dùng cho việc truyền tin báo chí và thông tin liên lạc chính thức.
+
 Bối cảnh lịch sử: Dịch vụ Vô tuyến điện dân sự được thành lập vào năm 1909 để thay thế cho các cơ sở quân sự trước đó.
 
 Thành phần khác trong ảnh

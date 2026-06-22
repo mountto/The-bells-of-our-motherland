@@ -317,7 +317,7 @@ Trung tâm Vô tuyến Sài Gòn. - Do Tổng công ty Điện báo Không dây 
 
 <p align="center">
 
-
+Trung tâm Vô tuyến Sài Gòn. - Do Tổng công ty Điện báo Không dây vận hành thay mặt cho Khu dân cư: Trung tâm Phát sóng Phú Thọ - Trạm Vô tuyến Thạch anh FZR và FZS 15 kW / Trung tâm Tiếp nhận Tăng Phú(Tăng Nhơn Phú, Thủ Đức ngày nay). Tổng quan các tòa nhà
 <img src="https://github.com/mountto/The-bells-of-our-motherland/blob/main/hinh%2FGallin-L%2FScreenshot_20260622_153622_Adobe%20Acrobat.jpg" alt="">
 </p>
 

@@ -218,6 +218,15 @@ Hệ thống điện báo in (Printing Telegraph) do David Edward Hughes phát m
 Hệ thống này từng được mạng lưới viễn thông thuộc địa Pháp sử dụng rộng rãi, trong đó có cả khu vực Bắc Kỳ (Tonkin),Trung Kỳ và Nam Kỳ để truyền tin tức, công điện và báo chí nhanh chóng hơn.</p><p>
 Cơ chế hoạt động: Thiết bị này sử dụng bàn phím tương tự đàn piano. Khi người gửi bấm một phím, hệ thống sẽ gửi một xung điện đi. Ở đầu nhận, một bánh xe chữ quay đồng bộ với đầu gửi sẽ in trực tiếp ký tự lên dải băng giấy. Nó cho phép gửi và in ra văn bản nhanh hơn rất nhiều so với cách truyền tin bằng mã Morse thủ công.</p>
 
+Bức ảnh hiển thị phòng điều hành của Trạm BCR (Bureau Central Radioélectrique - Cục Vô tuyến điện Trung ương) tại Hà Nội, nằm trên phố Galliéni (nay là phố Tràng Thi). Trạm này là một phần không thể tách rời của hệ thống vô tuyến điện Đông Dương thuộc Pháp vào đầu thế kỷ 20.
+Chi tiết về Trạm Hà Nội
+Chức năng: Trạm được dùng để kiểm soát phát sóng và điều khiển từ xa các thiết bị vô tuyến. Hệ thống giúp kết nối Hà Nội với các địa điểm chiến lược khác như Sài Gòn, Hồng Kông, Vân Nam Phủ (Trung Quốc) và Philippines.
+Thiết bị: Trong hình là các thiết bị điện báo không dây (TSF) và máy thu sóng ngắn (OC) dùng cho việc truyền tin báo chí và thông tin liên lạc chính thức.
+Bối cảnh lịch sử: Dịch vụ Vô tuyến điện dân sự được thành lập vào năm 1909 để thay thế cho các cơ sở quân sự trước đó.
+
+Thành phần khác trong ảnh
+
+Phần dưới của bức ảnh thể hiện Trạm duyên hải Kiến An (gần Hải Phòng). Đây từng là một trong những trạm quan trọng nhất Đông Dương nhằm kết nối liên lạc với tàu bè trên biển và các trạm quốc tế.
 
 </div>
 <p>Tham khảo:</p>

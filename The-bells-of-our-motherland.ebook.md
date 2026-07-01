@@ -72,27 +72,27 @@ Ngoài ra Trung tâm phát tín Phú Thọ ở Sài Gòn được thiết lập 
 <p align="center">
 Phòng tổng đài:
 ở đây là phòng điều khiển cho phép kết nối giữa những người gọi. Kết nối này, được gọi là "chuyển mạch điện thoại", được thực hiện thủ công.
-  <img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353399_1_1.jpg" alt="Phòng tổng đài">
+  <img src="hinh/ecpad.fr/depot-07-fonds-historique-jpeg-1gm-spa-d-42-spa-42-d-3467.jpg" alt="Phòng tổng đài">
 </p>
 <p align="center">
 Phòng mã Morse và máy phát tín hiệu âm thanh:
 ở đây là các thiết bị được sử dụng để gửi và nhận điện báo mã Morse. "Máy phát âm thanh" trong chú thích gốc đề cập đến các máy phát âm thanh điện báo giúp cho các tin nhắn mã Morse nhận được có thể nghe được.
-<img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353403_1_1.jpg" alt="">
+<img src="hinh/ecpad.fr/depot-07-fonds-historique-jpeg-1gm-spa-d-42-spa-42-d-3468.jpg" alt="">
 </p>
 <p align="center">
 Phòng Hughes:
 ở đây là các điện báo in sử dụng hệ thống do David Edward Hughes phát triển.
-<img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353406_1_1.jpg" alt="">
+<img src="hinh/ecpad.fr/depot-07-fonds-historique-jpeg-1gm-spa-d-42-spa-42-d-3469.jpg" alt="">
 </p>
 <p align="center">
 Phòng điều phối viên:
 ở đây là phòng điều phối, cho phép kết nối tất cả các đường dây.
-<img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353409_1_1.jpg" alt="">
+<img src="hinh/ecpad.fr/depot-07-fonds-historique-jpeg-1gm-spa-d-42-spa-42-d-3470.jpg" alt="">
 </p>
 <p align="center">
 Cuộn dây hình xuyến:
 Trong phòng điều phối.
-<img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353412_1_1.jpg" alt="">
+<img src="hinh/ecpad.fr/depot-07-fonds-historique-jpeg-1gm-spa-d-42-spa-42-d-3471.jpg" alt="">
 </p>
 
 
@@ -100,13 +100,13 @@ Trong phòng điều phối.
 Bàn đo:
 Bàn đo bên trong phòng điều phối.
 
-<img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353415_1_1.jpg" alt="">
+<img src="hinh/ecpad.fr/depot-07-fonds-historique-jpeg-1gm-spa-d-42-spa-42-d-3472.jpg" alt="">
 </p>
 <p align="center">
 Bảng nghe lén (theo dõi các cuộc hội thoại điện thoại từ phía sau):
 Một bảng điều khiển cho phép kết nối tai nghe với các đường dây phía sau. Điều này cho phép nghe và theo dõi thông tin được cung cấp ở phía sau.
 
-<img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353418_1_1.jpg" alt="">
+<img src="hinh/ecpad.fr/depot-07-fonds-historique-jpeg-1gm-spa-d-42-spa-42-d-3473.jpg" alt="">
 </p>
 
 
@@ -114,7 +114,7 @@ Một bảng điều khiển cho phép kết nối tai nghe với các đường
 Trạm trung chuyển (200 đường dây đến cùng một ga):
 Mặt ngoài của tổng đài điện báo và điện thoại, trên mặt tiền có một cửa chắn cho phép dẫn 200 đường dây từ bên ngoài vào bên trong tổng đài.
 
-<img src="https://imagesdefense.gouv.fr/media/catalog/product/cache/429ca14580b83b454652002f7695c09b/7/3/7353421_1_1.jpg" alt="">
+<img src="hinh/ecpad.fr/depot-07-fonds-historique-jpeg-1gm-spa-d-42-spa-42-d-3474.jpg" alt="">
 </p>
 
 

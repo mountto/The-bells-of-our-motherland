@@ -328,7 +328,13 @@ Trung tâm Vô tuyến Sài Gòn. - Do Tổng công ty Điện báo Không dây 
 </p>
 
 
+<p align="center">
+
 Trung tâm Phát thanh tại Mũi St. Jacques Vũng Tàu vào năm 1955.
+
+<img src="http://saigon-vietnam.fr/cap-saint-jacques/tsf.jpg" alt="">
+</p>
+
 
 Hai khu nhà ở được xây dựng tại Mũi St. Jacques vào năm 1955, một dành cho sĩ quan lục quân và không quân, và một dành cho gia đình của các nhân viên đặc nhiệm GCR (Nhóm Kiểm soát Vô tuyến) và STR (Cơ quan Nghiên cứu Kỹ thuật - Giải mã thông tin liên lạc Việt Minh).
 

@@ -328,6 +328,26 @@ Trung tâm Vô tuyến Sài Gòn. - Do Tổng công ty Điện báo Không dây 
 </p>
 
 
+Trung tâm Phát thanh tại Mũi St. Jacques Vũng Tàu vào năm 1955.
+
+Hai khu nhà ở được xây dựng tại Mũi St. Jacques vào năm 1955, một dành cho sĩ quan lục quân và không quân, và một dành cho gia đình của các nhân viên đặc nhiệm GCR (Nhóm Kiểm soát Vô tuyến) và STR (Cơ quan Nghiên cứu Kỹ thuật - Giải mã thông tin liên lạc Việt Minh).
+
+Khởi công vào tháng 5 năm 1955 cho khu nhà ở dành cho cán bộ điều hành, và vào tháng 8 cho GCR, công trình tiếp tục xây dựng cho đến năm 1956, nhưng các tòa nhà đã được đưa vào sử dụng từ tháng 12 năm 1955.
+
+
+Các cơ sở phát và thu sóng vô tuyến.
+Để đảm bảo liên lạc giữa căn cứ và thế giới bên ngoài, cần phải xây dựng các cơ sở phát và thu sóng có khả năng kết nối Mũi Saint-Jacques với Paris và các thủ đô của các nước đồng minh ở Đông Nam Á.
+Ba đơn vị đã được xây dựng bởi bộ phận kỹ thuật và được trang bị bởi Cục Vô tuyến điện và các dịch vụ người dùng khác:
+- 1 trung tâm phát sóng bao gồm một trạm liên quân, một trạm không quân và một trạm tình báo.
+- 1 trung tâm thu sóng bao gồm một trạm liên quân và một trạm tình báo.
+- 1 trung tâm phát/thu sóng trên một ngọn núi nhỏ bao gồm các cơ sở kỹ thuật của quân đoàn thông tin liên lạc.
+Trung tâm Phát sóng
+Trạm liên quân bao gồm 10 máy phát, trong đó có 2 máy phát công suất 10 kilowatt và 3 dàn anten.
+- 2 anten hình thoi hướng về Paris và được lắp đặt trên các tháp cao 21 mét.
+- 5 anten tầm trung hướng về Singapore, Tokyo, Bangkok và Manila, được lắp đặt trên các cột cao 15 và 20 mét.
+- Cuối cùng, 4 ăng-ten phục vụ thông tin liên lạc nội địa ở Đông Dương, được lắp đặt trên các cột cao 15 mét.
+
+
 
 
 

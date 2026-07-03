@@ -36,6 +36,87 @@ Văn phòng điện báo lúc bấy giờ chỉ là 2 ngôi nhà thấp lợp ng
 Tuyến cáp biển Vũng Tàu - Đồ Sơn có các nhánh rẽ vào Đà Nẵng, Huế, Vinh và các tuyến dây trần Hải Phòng - Hà Nội. </p>
 
 
+Vũng Tàu - Mũi Saint-Jacques
+
+<p align="center">
+
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-5.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-6.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-7.jpg" alt="">
+</p>
+
+<p align="center">
+Tòa nhà "English Cable"
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-8.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="" alt="">
+</p>
+
+Công ty "Compagnie Télégraphie Sous-Marine de la Manche" (Công ty Điện báo ngầm eo biển Manche) đã đặt đường cáp điện báo ngầm đầu tiên dưới eo biển Anh vào năm 1850.
+Mặc dù đường cáp đầu tiên này không thành công, nhưng một năm sau, công ty "Submarine Telegraph Company" mới thành lập đã đặt đường cáp thứ hai, và vào tháng 10 năm 1851, liên lạc giữa Anh và Pháp đã được thiết lập. Đây là đường cáp điện báo ngầm đầu tiên trên thế giới được đưa vào sử dụng.
+Đường cáp điện báo Anh được lắp đặt tại Cap Saint-Jacques vào đầu thế kỷ 20 (có lẽ vào năm 1901) bởi "Société Industrielle des Téléphones" (SIT) sử dụng tàu đặt cáp "François Arago". Tòa nhà "Cáp Anh" tại Cap Saint-Jacques được xây dựng cùng thời điểm và ban đầu có mái dốc nhẹ, nhưng vào những năm 1930, nó được nâng cấp lên mái cao hơn, dốc hơn với các đầu hồi nhỏ ở trên đỉnh. Tòa
+nhà "English Cable" hiện rõ trong các bức ảnh từ những năm 1960. Nó đã bị phá dỡ sau chiến tranh năm 1975 và hiện nay nằm trên cùng địa điểm với "Trung tâm Văn hóa Thanh niên".
+
+<p align="center">
+
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-9.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-10.jpg" alt="">
+</p>
+
+<p align="center">
+Tuyến cáp treo Anh với mái che mới được lắp đặt năm 1968.
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-11.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-12.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+Bưu điện, Điện báo, Điện thoại - PTT
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-13.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="" alt="">
+</p>
+
+
+Bưu điện: Có lẽ được xây dựng vào đầu những năm 1860 (cùng thời điểm với ngọn hải đăng đầu tiên), bức ảnh sớm nhất được biết đến cho đến nay là từ năm 1870. Tòa nhà không trải qua bất kỳ sự sửa đổi nào trong hơn một thế kỷ và hình ảnh rõ nét vẫn hiện hữu trong các bức ảnh từ những năm 1960 và đầu những năm 1970.
+Nó đã bị phá dỡ sau khi chiến tranh kết thúc vào năm 1975 và Bưu điện Vũng Tàu hiện nay tọa lạc trên cùng địa điểm đó.
+
+
+<p align="center">
+The Post Office - Ty Bưu điện
+<img src="http://saigon-vietnam.fr/indochina/baie-cocotiers-14.jpg" alt="">
+</p>
+
+
+
+
+
 Vào đầu thế kỷ 20, chính quyền Bưu điện và Điện báo Pháp (French PTT) đã tiến hành thiết lập mạng lưới cáp quang biển (submarine cables) nhằm kết nối Đông Dương thuộc Pháp với các thuộc địa khác và các trung tâm thương mại trong khu vực Châu Á Thái Bình Dương, do đó các dây cáp sau đã được đặt với các thành phố sau: Tamative (Madagascar), Saint-Denis (Đảo Reunion), Port Louis (Đảo Mauritius), tổng chiều dài của tuyến cáp được đặt là 1030 hải lý.Mũi St. Jacques (Đông Dương thuộc Pháp)(nay là Vũng Tàu) được nối với Pontianak (Borneo)(Borneo thuộc Hà Lan), Sài Gòn, Hải Phòng, Tourane (Đà Nẵng), Amoy (Hạ Môn)Tất cả các tuyến cáp này đều do tàu cáp “François Arago” rải.Năm 1905, một tuyến cáp được đặt từ Brest đến Dakar (Senegal) trên khoảng cách 2847 hải lý.Tất cả các tuyến cáp lịch sử này đều được thực hiện bởi tàu rải cáp mang tên “François Arago” (trước đây là tàu CS Westmeath) thuộc sở hữu của Pháp.
 
 

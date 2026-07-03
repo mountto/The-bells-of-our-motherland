@@ -329,7 +329,6 @@ Trung tâm Vô tuyến Sài Gòn. - Do Tổng công ty Điện báo Không dây 
 
 
 <p align="center">
-
 Trung tâm Phát thanh tại Mũi St. Jacques Vũng Tàu vào năm 1955.
 
 <img src="http://saigon-vietnam.fr/cap-saint-jacques/tsf.jpg" alt="">

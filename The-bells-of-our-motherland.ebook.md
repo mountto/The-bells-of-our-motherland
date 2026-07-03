@@ -337,6 +337,8 @@ Khởi công vào tháng 5 năm 1955 cho khu nhà ở dành cho cán bộ điề
 
 Các cơ sở phát và thu sóng vô tuyến.
 Để đảm bảo liên lạc giữa căn cứ và thế giới bên ngoài, cần phải xây dựng các cơ sở phát và thu sóng có khả năng kết nối Mũi Saint-Jacques với Paris và các thủ đô của các nước đồng minh ở Đông Nam Á.
+
+
 Ba đơn vị đã được xây dựng bởi bộ phận kỹ thuật và được trang bị bởi Cục Vô tuyến điện và các dịch vụ người dùng khác:
 - 1 trung tâm phát sóng bao gồm một trạm liên quân, một trạm không quân và một trạm tình báo.
 - 1 trung tâm thu sóng bao gồm một trạm liên quân và một trạm tình báo.
@@ -347,7 +349,14 @@ Trạm liên quân bao gồm 10 máy phát, trong đó có 2 máy phát công su
 - 5 anten tầm trung hướng về Singapore, Tokyo, Bangkok và Manila, được lắp đặt trên các cột cao 15 và 20 mét.
 - Cuối cùng, 4 ăng-ten phục vụ thông tin liên lạc nội địa ở Đông Dương, được lắp đặt trên các cột cao 15 mét.
 
+Sau khi quân đội Pháp rút đi vào tháng 4 năm 1956, căn cứ này được các cố vấn người Mỹ tiếp quản và trở thành trụ sở của quân đoàn viễn chinh Úc cũng như một số đơn vị của Mỹ.
 
+
+<p align="center">
+Hệ thống radar của Mỹ đã thay thế các ăng-ten của Pháp.
+
+<img src="http://saigon-vietnam.fr/cap-saint-jacques/vungtau-9.jpg" alt="">
+</p>
 
 
 

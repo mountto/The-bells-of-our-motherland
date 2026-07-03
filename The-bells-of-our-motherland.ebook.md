@@ -34,6 +34,14 @@ Văn phòng điện báo lúc bấy giờ chỉ là 2 ngôi nhà thấp lợp ng
 <p>Mạng lưới phía bắc và phía nam của Đông Dương được kết nối thông qua một cáp ngầm từ Mũi Saint-Jacques đến Thuận An (gần Huế), kéo dài đến Đô Sơn (gần Hải Phòng). Tuyến đường này được đưa vào sử dụng ngày 1 tháng 2 năm 1884. Một tuyến đường bộ Phnom Penh - Bangkok được khai trương năm 1883, và ba tuyến kết nối với miền nam Trung Quốc được thiết lập vào năm 1891.</p>
 <p>Năm 1884 : người Pháp khởi công xây dựng công trình đường dây hữu tuyến Hà Nội - Sài gòn dài gần 2000km, đồng thời họ còn xây dựng đường dây Hà Nội – Hải Phòng. 
 Tuyến cáp biển Vũng Tàu - Đồ Sơn có các nhánh rẽ vào Đà Nẵng, Huế, Vinh và các tuyến dây trần Hải Phòng - Hà Nội. </p>
+
+
+Vào đầu thế kỷ 20, chính quyền Bưu điện và Điện báo Pháp (French PTT) đã tiến hành thiết lập mạng lưới cáp quang biển (submarine cables) nhằm kết nối Đông Dương thuộc Pháp với các thuộc địa khác và các trung tâm thương mại trong khu vực Châu Á Thái Bình Dương, do đó các dây cáp sau đã được đặt với các thành phố sau: Tamative (Madagascar), Saint-Denis (Đảo Reunion), Port Louis (Đảo Mauritius), tổng chiều dài của tuyến cáp được đặt là 1030 hải lý.Mũi St. Jacques (Đông Dương thuộc Pháp)(nay là Vũng Tàu) được nối với Pontianak (Borneo)(Borneo thuộc Hà Lan), Sài Gòn, Hải Phòng, Tourane (Đà Nẵng), Amoy (Hạ Môn)Tất cả các tuyến cáp này đều do tàu cáp “François Arago” rải.Năm 1905, một tuyến cáp được đặt từ Brest đến Dakar (Senegal) trên khoảng cách 2847 hải lý.Tất cả các tuyến cáp lịch sử này đều được thực hiện bởi tàu rải cáp mang tên “François Arago” (trước đây là tàu CS Westmeath) thuộc sở hữu của Pháp.
+
+
+Những tuyến cáp đồng sơ khai này đánh dấu những bước đi đầu tiên trong lịch sử viễn thông và kết nối dưới biển tại khu vực Đông Nam Á, tạo tiền đề cho sự phát triển của các hệ thống cáp biển hiện đại ngày nay.
+
+
 <p>Năm 1884 : người Pháp kéo dây điện tín chạy suốt chiều dài đất nước ta 2.000 km, đi từ Hà Nội vào đến Sài Gòn, qua các thành phố Vinh, Huế, Đà Nẵng, Quy Nhơn (lúc đó thành phố Nha Trang chưa xây dựng).</p>
 
 <p>Trạm ở Mũi St. James - Vũng Tàu 

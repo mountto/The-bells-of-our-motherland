@@ -115,7 +115,7 @@ The Post Office - Ty Bưu điện
 
 
 <p align="center">
-Hộp thư lưu ký của Pháp đầu thế kỷ XX
+Hộp thư lưu ký của Pháp đầu thế kỷ XX ở Đà Nẵng 
 <img src="hinh/bao-tang-vnpt/Hộp thư lưu ký của Phap-đầu thế kỷ XX.jpg" alt="">
 </p>
 

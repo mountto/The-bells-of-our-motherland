@@ -122,8 +122,7 @@ Hộp thư lưu ký của Pháp đầu thế kỷ XX ở Đà Nẵng
 
 <p align="center">
 Tổng đài nhân công 5 số của Pháp năm 1910 ở Hải Phòng 
-<img src="hinh/bao-tang-vnpt/Tổng đài nhân công 5 số của Pháp-1910.jpg
-" alt="">
+<img src="hinh/bao-tang-vnpt/Tổng đài nhân công 5 số của Pháp-1910.jpg" alt="">
 </p>
 
 

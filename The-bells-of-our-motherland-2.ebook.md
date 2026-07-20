@@ -40,7 +40,7 @@ Cần Thơ
 <p align="center">
 Cô Nhơn Viên của Tống đài telephone Cần Thơ 1970
 
-<img src="hinh/bao-tang-vnpt/Cô Nhơn Viên của Tống đài telephone Cần Thơ 1970.jpg" alt="">
+<img src="hinh/tong-hop/Cô Nhơn Viên của Tống đài telephone Cần Thơ 1970.jpg" alt="">
 </p>
 
 

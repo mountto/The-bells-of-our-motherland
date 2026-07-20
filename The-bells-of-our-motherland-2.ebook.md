@@ -8,6 +8,26 @@
 
 <div align="justify">
 
+Hà Nội 
+
+
+Bưu điện Hà Nội lúc đó có tên gọi là Sở Bưu điện và Vô tuyến điện Hà Nội, cơ sở vật chất do Pháp để lại gồm có: 
+	 nhà Bưu điện trung tâm Bờ Hồ và 3 bưu cục: Bạch Mai, Ngã Tư sở và ga Hàng Cỏ. 
+	 Một tổng đài điện thoại 1.500 số và khoảng 600 máy thuê bao. Một phòng khai thác điện báo, một số máy thu phát vô tuyến công suất nhỏ. 
+	 Sáng 11/10/1954, phòng Giao dịch Bờ Hồ đã mở cửa phục vụ nhân dân.
+
+- Năm 1958, Đài thu tín và Đài phát tín do Trung Quốc giúp xây dựng đã đi vào hoạt động.
+
+- Năm 1960, Tổng đài điện thoại tự động đầu tiên 3000 số do Cộng hoà dân chủ Đức giúp xây dựng đã đi vào hoạt động.
+
+Các hệ thống tổng đài điện thoại tự động của Đức được sử dụng ở Hà Nội:
+
+
+
+
+
+
+
 Đà Lạt 
 
 Để phục vụ thông tin liên lạc, nhu cầu nghỉ dưỡng và du lịch của du khách ở Đà Lạt, từ những thập niên đầu thế kỷ trước, người Pháp đã cho xây dựng bưu điện ở thành phố này. Năm 1915, một trạm bưu điện đầu tiên của Đà Lạt được thành lập ở khu vực Đài Phát thanh – Truyền hình Lâm Đồng hiện nay và đến năm 1919 được dời về vị trí mới (16 đường Trần Phú).

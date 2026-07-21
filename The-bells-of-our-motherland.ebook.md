@@ -126,6 +126,17 @@ Tổng đài nhân công 5 số của Pháp năm 1910 ở Hải Phòng
 </p>
 
 
+
+<p align="center">
+Hà Nội, người Pháp sử dụng điện báo in sử dụng hệ thống do David Edward Hughe 
+<img src="hinh/bao-tang-vnpt/điện báo in sử dụng hệ thống do David Edward Hughe.jpg" alt="">
+</p>
+
+
+hinh/bao-tang-vnpt/điện báo in sử dụng hệ thống do David Edward Hughe.jpg
+
+
+
 Vào đầu thế kỷ 20, chính quyền Bưu điện và Điện báo Pháp (French PTT) đã tiến hành thiết lập mạng lưới cáp quang biển (submarine cables) nhằm kết nối Đông Dương thuộc Pháp với các thuộc địa khác và các trung tâm thương mại trong khu vực Châu Á Thái Bình Dương, do đó các dây cáp sau đã được đặt với các thành phố sau: Tamative (Madagascar), Saint-Denis (Đảo Reunion), Port Louis (Đảo Mauritius), tổng chiều dài của tuyến cáp được đặt là 1030 hải lý.Mũi St. Jacques (Đông Dương thuộc Pháp)(nay là Vũng Tàu) được nối với Pontianak (Borneo)(Borneo thuộc Hà Lan), Sài Gòn, Hải Phòng, Tourane (Đà Nẵng), Amoy (Hạ Môn)Tất cả các tuyến cáp này đều do tàu cáp “François Arago” rải.Năm 1905, một tuyến cáp được đặt từ Brest đến Dakar (Senegal) trên khoảng cách 2847 hải lý.Tất cả các tuyến cáp lịch sử này đều được thực hiện bởi tàu rải cáp mang tên “François Arago” (trước đây là tàu CS Westmeath) thuộc sở hữu của Pháp.
 
 

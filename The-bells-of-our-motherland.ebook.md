@@ -516,6 +516,7 @@ dây cấp I được tải ba hóa cùng hàng chục km cáp nội hạt qua s
 trung kế, đủ sức chuyển, nhận hàng chục vạn cuộc đàm thoại, tăng gấp 7 lần so với 
 năm 1955.
 
+Đầu năm 1971, Cục Bưu điện Trung ương hướng dẫn kỹ thuật cho phòng Bưu điện, đặc biệt giúp cho phòng đủ năng lực tự tháo lắp được và quản lý tốt mạng điện thoại tự động từng nấc kiểu GWN 100 số đầu tiên phục vụ Thành ủy, Ủy ban Hành chính thành phố và Trưởng các ngành quan trọng. So với các địa phương miền Bắc, Hải Phòng là một trong những tỉnh có mạng điện thoại tự động sớm. Đồng thời những năm 70 Hải Phòng có xe thông tin vi-ba để liên lạc với Trung ương và các tỉnh vùng Duyên Hải.
 
 Cuối năm 1971, được sự giúp đỡ của 
 Cu-ba, đã xây dựng xong đài Duyên Hải phục vụ thông tin cho hàng hải quốc tế và 
@@ -528,6 +529,49 @@ hệ thống điện thoại tự động ngang - dọc kiểu ATZ64 200 số. L
 lắp đặt ở các cơ quan trọng yếu và một số cơ sở trong thành phố, đảm bảo thuận 
 lợi, nhanh chóng và chính xác, phục vụ các nhiệm vụ chính trị và chi viện cho 
 chiến trường miền Nam.
+
+Năm 1976, việc đổi mới trang thiết bị bắt đầu được đẩy mạnh. Trước đây 
+đường Gentex (điện báo in chữ) từ Hải Phòng đi các tỉnh thường phải qua Hà Nội.
+
+Dưới sự chỉ đạo chung của Tổng cục, Bưu điện Hải Phòng đã tham gia xây dựng 
+dường Gentex đi thẳng Thái Nguyên, Việt Trì, Thanh Hóa, Hải Hưng, Quảng 
+Ninh, Hà Bắc, Nam Định, Hà Đông, Thái Bình. Từ Hải Phòng có thể lưu chuyển 
+thông tin bằng đường Gentex thẳng với các địa phương trên không phải qua Hà 
+Nội nữa. Ngành đã tập trung xây dựng cho báo “Hải Phòng” một đường điện báo 
+chuyên dùng để có thể nhận kịp thời các tin tức từ Hà Nội chuyển về. Tổng đài tự 
+động điện báo cùng với mạng thuê bao, các máy Telex được ngành xây dựng và 
+trang bị cho cảng Hải Phòng. Tổng cục Đường biển, Đại lý Tàu biển, Công ty Vận 
+tải biển… Thông qua mạng Telex, thông tin từ Hải Phòng được nối với thành phố 
+Hồ Chí Minh và từ thành phố Hồ Chí Minh mở rộng phạm vi liên lạc ra quốc tế 
+(Hồng Kông, Nhật Bản, Anh, Áo, Thụy Sĩ…). Đường điện báo phố thông với Đà 
+Nẵng cũng được củng cố và tăng cường khai thác.
+
+Năm 1978, Bưu điện Hải Phòng lắp đặt và đưa vào khai thác tổng đài điện 
+thoại tự động ATZ-600 số, nâng dung lượng tổng đài điện thoại tự động, ưu tiên 
+phục vụ các cơ quan lãnh đạo thành phố và một số ngành kinh tế trọng điểm.
+
+Năm 1979, Ngành đưa vào sử dụng các loại máy tổng đài tự động 50 số, 70 
+số dùng để lắp đặt cho một số cơ sở kinh tế - xã hội trọng điểm của thành phố như: 
+Cảng, Vosco, Đại lý Tàu biển, Công ty Bảo hiểm, Công ty Rau quả xuất khẩu (loại 
+50 số); Nhà máy Xi Măng, Liên hiệp Thủy sản, Tổng cục Đường biển, Đóng tàu 
+Sông Cấm, Công ty Xăng dầu khu vực III, Bệnh viện Việt Tiệp (loại 70 số)… Đây 
+cũng là năm mạng lưới Viba được lắp đặt và đưa vào mạng thông tin của Ngành. 
+Trước đây, mạng thông tin liên lạc giữa thành phố và hải đảo xa là Cát Bà, Cát Hải 
+- một địa bàn xung yếu về kinh tế và quốc phòng của thành phố thường xuyên bị 
+trục trặc, không thông suốt thường xuyên. Được sự giúp đỡ của Tổng cục Bưu 
+điện, sự quan tâm của thành phố, Bưu điện Hải Phòng tiến hành lắp đặt hệ thống 
+Viba ở Cát Bà, Cát Hải đã đảm bảo thông tin giữa đất liền và hải đảo thông suốt 
+24/24 giờ trong ngày - điều mà trước đó chưa bao giờ thực hiện được. Sau Cát Bà, 
+Cát Hải, thông tin Viba được tiếp tục phát triển vào các trọng điểm khác như Vĩnh Bảo, Tiên Lãng, phục vụ cho tuyến liên lạc phía Nam thành phố. Toàn Ngành đã 
+có 10 đầu máy liên lạc với Hà Nội, Hòn Gai và một số cơ sở thiết yếu khác của 
+thành phố…
+
+
+
+
+
+
+
 
 
 

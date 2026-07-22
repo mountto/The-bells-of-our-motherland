@@ -32,12 +32,29 @@ Các hệ thống tổng đài điện thoại tự động của Đức đượ
 
 
 <p align="center">
+Tổng đài Basa và GWN và ATZ-64/65 Call Center 
+<img src="hinh/tong-hop/Tổng đài Basa-GWN-ATZ-64_65.jpg" alt="">
+</p>
+<p align="center">
 
-<img src="" alt="">
+<img src="hinh/tong-hop/Tổng đài Basa-GWN-ATZ-64_65-.jpg" alt="">
+</p>
+<p align="center">
+
+<img src="hinh/tong-hop/Tổng đài ATZ-64_65 Call Center .jpg" alt="">
 </p>
 
 
+
+
+
+
 Hải Phòng 
+
+<p align="center">
+
+<img src="" alt="">
+</p>
 
 Đầu năm 1971, Cục Bưu điện Trung ương hướng dẫn kỹ thuật cho phòng Bưu điện, đặc biệt giúp cho phòng đủ năng lực tự tháo lắp được và quản lý tốt mạng điện thoại tự động từng 
 nấc kiểu GWN 100 số đầu tiên phục vụ Thành ủy, Ủy ban Hành chính thành phố 

@@ -473,6 +473,32 @@ Hệ thống radar của Mỹ đã thay thế các ăng-ten của Pháp.
 </p>
 
 
+Hải Phòng (1955-1965)
+
+
+Pháp rút khỏi miền Bắc đã để lại một “di sản” thông tin Bưu điện nghèo nàn, 
+thiếu đồng bộ, chắp vá và cũ kỹ, lạc hậu. Tại trụ sở Bưu điện có một tổng đài cộng 
+điện mà theo hồ sơ để lại có dung lượng 600 số. Nhưng thực chất, suốt thời kỳ 
+chiếm đóng Pháp chỉ dùng 100 số, tối đa là 150 số. Một tổng đài 10 số với 20 máy 
+điện thoại từ thạch được sản xuất vào năm 1910. Thu gom cả hai tổng đài có vẻn 
+vẹn 120 máy điện thoại mà chất lượng đã giảm sút, không đảm bảo cho các cuộc 
+đàm thoại. Trước giải phóng, mạng thông tin hữu tuyến này Pháp chỉ giới hạn ở 
+các “khu phố tây” và một số cơ sở sản xuất công nghiệp ở ven bờ sông Cấm. Hệ 
+thống đường dây hữu tuyến lúc đó có một đường cáp chính đi ngầm dung lượng từ 
+68 - 112 đôi và có độ dài không vượt quá 5km, gồm một số nhánh từ Sở Bưu điện 
+đi ngã tư Cầu Đất, nhà Băng Năm Sao, nhà máy Xi măng, Cảng Hải Phòng và một 
+đường cáp nhánh bắt nguồn từ cáp chính dung lượng 7 đôi và 28 đôi dài 10km tỏa 
+ra các cơ sở đặt máy. Đường điện thoại đơn công độc tuyến được xây dựng quá lâu 
+mà chủ yếu theo các tuyến đường 5 và 10. Hệ thống vô tuyến điện vừa mỏng vừa 
+cũ. Tại Sở Bưu điện chỉ còn lại 1 máy phát kiểu Boóc-đô 15W và 2 máy 
+Hanmerlure. Ta đã dùng nó vào việc liên lạc giữa Hải Phòng với Trung ương và 
+một số tỉnh vùng Duyên Hải. Đài phát tín ở phố Lạch Tray được dùng để liên lạc 
+và dẫn dắt tàu bè ra vào cảng Hải Phòng. Cơ sở vật chất kỹ thuật của trạm gồm 2 
+máy Thom Jonhouston 2kW, một máy kiểu Sipl 800W, 2 máy Bachelet 50W, 1 
+máy kiểu Srat 50W và một máy Rađiô dùng để kiểm soát các máy phát. Số máy 
+trên đến ngày tiếp quản có được chính là do anh chị em công nhân trong ngành đã 
+đấu tranh kiên quyết giữ lại, bảo vệ trong thời kỳ 300 ngày tập kết chuyển quân 
+của Pháp.
 
 </div>
 <p>Tham khảo:</p>

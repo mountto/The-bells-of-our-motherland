@@ -473,7 +473,7 @@ Hệ thống radar của Mỹ đã thay thế các ăng-ten của Pháp.
 </p>
 
 
-Hải Phòng (1955-1965)
+Hải Phòng
 
 
 Pháp rút khỏi miền Bắc đã để lại một “di sản” thông tin Bưu điện nghèo nàn, 
@@ -499,6 +499,37 @@ máy kiểu Srat 50W và một máy Rađiô dùng để kiểm soát các máy p
 trên đến ngày tiếp quản có được chính là do anh chị em công nhân trong ngành đã 
 đấu tranh kiên quyết giữ lại, bảo vệ trong thời kỳ 300 ngày tập kết chuyển quân 
 của Pháp.
+
+Mạng thông tin vô tuyến 
+trước chỉ có 3 máy loại 25W và 2W đặt ở tổng đài Trung tâm – nay phát triển 
+thành 20 chiếc với đủ loại công suất khác nhau. Năm 1964 liên lạc bằng vô tuyến 
+điện ở hầu hết các huyện, thị xã đã có máy 50W, đề phòng mạng điện thoại mất 
+liên lạc. Bưu điện Hải Phòng cũng hoàn thành việc bảo vệ thông tin vô tuyến 
+Duyên Hải. Thông tin điện báo chữ (Tê-lê-típ) đang từng bước thay thế thông tin 
+điện báo moóc ảo tuyến, góp phần chuyển không chỉ khối lượng thông tin mà còn 
+rút ngắn được thời gian, đảm bảo chính xác.
+Đến năm 1964, Ngành chú trọng thay thế loại điện thoại từ thạch bằng điện 
+thoại cộng điện. Mạng điện thoại cũng vươn dài và xa hơn xuống các huyện, xã và 
+các cơ quan, xí nghiệp, nhà máy lớn. Cùng đó, mạng truyền dẫn dây trần liên tỉnh, 
+liên huyện tiếp tục được phát triển với tổng chiều dài 1116km. Gần 70% đường 
+dây cấp I được tải ba hóa cùng hàng chục km cáp nội hạt qua sông nhập dài và 
+trung kế, đủ sức chuyển, nhận hàng chục vạn cuộc đàm thoại, tăng gấp 7 lần so với 
+năm 1955.
+
+
+Cuối năm 1971, được sự giúp đỡ của 
+Cu-ba, đã xây dựng xong đài Duyên Hải phục vụ thông tin cho hàng hải quốc tế và 
+phục vụ quốc phòng trên đường 14 đi Đồ Sơn (nay là đường 353).
+
+Năm 1974, Do yêu cầu phát triển của 
+thành phố, ngành Bưu điện đã từng bước tự động hóa mạng lưới thông tin. Nếu 
+trước đây chỉ có tổng đài của cộng điện và tổng đài tự động từng nấc thì nay đã có 
+hệ thống điện thoại tự động ngang - dọc kiểu ATZ64 200 số. Loại máy này được 
+lắp đặt ở các cơ quan trọng yếu và một số cơ sở trong thành phố, đảm bảo thuận 
+lợi, nhanh chóng và chính xác, phục vụ các nhiệm vụ chính trị và chi viện cho 
+chiến trường miền Nam.
+
+
 
 </div>
 <p>Tham khảo:</p>

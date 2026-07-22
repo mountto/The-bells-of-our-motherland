@@ -37,7 +37,13 @@ Các hệ thống tổng đài điện thoại tự động của Đức đượ
 </p>
 
 
+Hải Phòng 
 
+Đầu năm 1971, Cục Bưu điện Trung ương hướng dẫn kỹ thuật cho phòng Bưu điện, đặc biệt giúp cho phòng đủ năng lực tự tháo lắp được và quản lý tốt mạng điện thoại tự động từng 
+nấc kiểu GWN 100 số đầu tiên phục vụ Thành ủy, Ủy ban Hành chính thành phố 
+và Trưởng các ngành quan trọng. So với các địa phương miền Bắc, Hải Phòng là 
+một trong những tỉnh có mạng điện thoại tự động sớm. Đồng thời những năm 70 
+Hải Phòng có xe thông tin vi-ba để liên lạc với Trung ương và các tỉnh vùngDuyên Hải.
 
 
 

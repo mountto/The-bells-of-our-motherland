@@ -22,7 +22,8 @@ Bưu điện Hà Nội lúc đó có tên gọi là Sở Bưu điện và Vô tu
 
 
 <p align="center">
-Năm 1960, Tổng đài điện thoại tự động đầu tiên 3000 số do Cộng hoà dân chủ Đức giúp xây dựng đã đi vào hoạt động.
+
+Mạng điện thoại tự động từng nấc kiểu GWN
 <img src="hinh/bao-tang-vnpt/ 1960 Tổng đài điện thoại tự động đầu tiên của Đức.jpg" alt="">
 </p>
 

@@ -566,6 +566,25 @@ Cát Hải, thông tin Viba được tiếp tục phát triển vào các trọn
 có 10 đầu máy liên lạc với Hà Nội, Hòn Gai và một số cơ sở thiết yếu khác của 
 thành phố…
 
+Trang thiết bị của Ngành tiếp tục được đầu tư theo hướng hiện đại hóa có 
+trọng điểm. Năm 1981, Bưu điện Hải Phòng đã tham gia tích cực quá trình xây 
+dựng tuyến cáp đồng trục Hà Nội - Hải Phòng và đưa vào khai thác. Liên lạc địa 
+chính giữa Hải Phòng - Hà Nội có 14 kênh điện thoại, 02 kênh điện báo, giữa Hải 
+Phòng với Hải Hưng đã có 04 kênh điện thoại, 02 kênh báo. Ngành cũng đã hoàn 
+thành hơn 9,3 km đường cáp treo và 32 km đường cáp chôn trong nội thành, nội 
+huyện đáp ứng kịp thời yêu cầu của cơ quan thuê bao. Năm 1981, cũng đã phát 
+triển thêm 8 tổng đài từ thạch các loại và 3 tổng đài điện thoại tự động MSN 9/70 
+cho một số cơ sở, 347 máy điện thoại được đặt mới (trong đó có 230 máy điện 
+thoại tự động, 20 máy cộng điện, 97 máy từ thạch). Máy Gentex được mở thêm 2 
+đường liên lạc với Thái Nguyên và Hà Nam Ninh. Năm 1982, ngành tập trung phát 
+triển thuê bao hoàn thành việc đặt máy cho 40 cơ quan thuê bao với tổng số 186 
+máy điện thoại (160 máy tự động, 07 máy cộng điện, 13 máy từ thạch), lắp đặt 4 
+máy Telex và 03 tổng đài tự động MSN 70 cho nhà máy Xi Măng, Công ty Tiếp 
+nhận vật tư Hải Phòng, Bưu cục Cầu Tre. Ngành cũng đã phát triển thêm 21 km 
+đường cáp và 8,5 km đường dây các loại. Mạng Gentex mở rộng liên lạc với Bưu 
+điện Thanh Hóa. Hải Phòng đã liên lạc thẳng với 10 tỉnh, thành phố bằng mạng 
+Gentex.
+
 
 
 

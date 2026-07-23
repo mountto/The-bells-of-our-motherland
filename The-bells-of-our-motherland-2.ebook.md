@@ -40,11 +40,11 @@ Các tổng đài chi nhánh và tổng đài đầu cuối đã được thành
 Từ năm 1970 trở đi, các máy điện báo ngày càng hiện đại như Siemens T1002 và Olivetti được đưa vào mạng lưới.
 <p align="center">
 Siemens T1002
-<img src="" alt="">
+<img src="hinh/tong-hop/ Siemens T1002.jpg" alt="">
 </p>
 <p align="center">
 Olivetti
-<img src="" alt="">
+<img src="hinh/tong-hop/ Olivetti.jpg" alt="">
 </p>
 
 

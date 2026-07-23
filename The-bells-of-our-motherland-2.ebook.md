@@ -49,8 +49,17 @@ Olivetti
 
 
 Trung tâm chuyển mạch dữ liệu và điện báo điện tử loại NEDIX-510A được mua từ công ty NEC của Nhật Bản.
+<p align="center">
+
+<img src="" alt="">
+</p>
 
 Trung tâm điện báo điện tử Siemens EDXS (telex, tgx và gentex).
+
+<p align="center">
+Siemens EDXS và Netrix Network Exchange (Nx) 2550
+<img src="hinh/tong-hop/Siemens EDXS-Netrix Network Exchange (Nx) 2550.jpg" alt="">
+</p>
 
 
 <p align="center">

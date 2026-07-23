@@ -6,6 +6,51 @@
 # */
 
 <div align="justify">
+
+Tổng đài cộng điện hay The Central Battery (C.B.) system là tổng đài điện thoại thủ công, thuộc loại pin trung tâm (CB) tương tự như hình bên dưới.
+
+<p align="center">
+Bảng điều khiển trung tâm pin BE CB 30/50 năm 1907
+<img src="hinh/tong-hop/Central Battery Switchboard 1907.jpg" alt="">
+</p>
+
+Có nhiều biến thể của hệ thống CB nhưng trên thực tế, tất cả đều hoạt động theo cách tương tự.
+
+Hệ thống Pin Trung Tâm (CB) được định nghĩa là hệ thống trong đó toàn bộ năng lượng cần thiết cho việc truyền tải và báo hiệu được lấy từ tổng đài. Không sử dụng pin hoặc máy phát điện cầm tay ở đầu dây điện thoại và các cuộc gọi được báo hiệu tự động bằng đèn trên bảng điều khiển tổng đài. Đèn báo hiệu cho người vận hành biết khi nào cuộc gọi đã kết thúc.
+
+Một tổng đài CB công cộng có thể bao gồm nhiều tổng đài, trong khi một hệ thống riêng, được gọi là PMBX (chỉ xử lý cuộc gọi tại cơ sở của khách hàng), thường chỉ bao gồm một hoặc hai tổng đài.
+
+Trên hệ thống CB, người gọi chỉ cần nhấc ống nghe và chờ tổng đài viên trả lời. Một đèn trên tổng đài cục bộ sẽ sáng lên và tổng đài viên cắm dây vào mạch đó. Khi có người trả lời, người gọi cho tổng đài viên biết số điện thoại hoặc dịch vụ mình muốn gọi. Nếu là cuộc gọi nội hạt, tổng đài viên sẽ cắm dây vào số điện thoại được yêu cầu và đổ chuông. Khi có người trả lời, tổng đài viên sẽ rời khỏi đường dây, nhưng sẽ gắn một phiếu ghi thông tin cuộc gọi và thời gian gọi vào phiếu. Khi người gọi cúp máy, đèn giám sát mạch dây của tổng đài viên sẽ sáng lên báo hiệu đã kết thúc cuộc gọi, và tổng đài viên sẽ rút dây và ghi thêm thời gian gọi vào phiếu. Tất cả các phiếu được nhân viên quản lý tổng đài thu thập và phí cuộc gọi được tính toán thành hóa đơn cuối cùng.
+
+Hệ thống này đạt được mức tiết kiệm đáng kể và chất lượng truyền tải tốt nhờ nguồn điện trung tâm. Nhu cầu về nguồn điện cục bộ và máy phát điện cầm tay chỉ còn được giữ lại cho các điện thoại thử nghiệm, các tổng đài PMBX lớn, một số kế hoạch mở rộng và một số mạch riêng, mặc dù ngày nay những thiết bị này thường không còn được sử dụng.
+
+Vào thời kỳ đầu, tất cả các điện thoại đều có một máy phát gắn liền và có nhiều loại, nhiều nhãn hiệu khác nhau. Vấn đề là chúng thường to, cồng kềnh và thường cần điều chỉnh để hoạt động được. Sau đó, máy phát hạt carbon được phát minh, nhỏ gọn và nhẹ hơn. Điều này có nghĩa là một thiết bị cầm tay có thể được sử dụng cho cả chức năng phát và thu - và từ đó, điện thoại cầm tay ra đời.
+
+Nhưng vì máy phát tín hiệu dùng hạt carbon dễ bị ảnh hưởng bởi sự đóng gói, nhiễu đường dây và tiếng ồn, nên chúng phù hợp hơn với điện thoại dùng pin cục bộ hoặc được gắn cố định vào điện thoại. Bắc Mỹ, trong những ngày đầu, không sử dụng điện thoại cầm tay, do đó việc chuyển sang sử dụng CB (Carbon Granule) được đẩy nhanh ở các thị trấn và thành phố. Tổng đài CB đầu tiên được lắp đặt vào năm 1880.
+
+Khoảng năm 1930, Bưu điện Anh (GPO) đã tiến hành phân tích lợi ích chi phí của máy phát tín hiệu sử dụng hạt carbon so với các loại máy cũ hơn. Họ kết luận rằng tất cả các loại máy cũ nên được thay thế bằng loại máy sử dụng hạt carbon, điều này cuối cùng sẽ tiết kiệm được tiền.
+
+Một lý do khác khiến các cơ quan quản lý điện thoại chuyển sang sử dụng CB là chi phí bảo trì các bình ắc quy cục bộ. Bình ắc quy trung tâm có thể được sạc và bảo trì dễ dàng hơn.
+
+Ban đầu, các tổng đài CB chỉ hỗ trợ điện thoại ở khoảng cách ngắn, nhưng sau đó phạm vi này được mở rộng và điện trở đường dây tối đa là khoảng 800 ôm. Trong trường hợp đường dây dài hơn, có thể sử dụng điện thoại dùng pin cục bộ. Vào những năm 1950, các loại điện thoại hiệu quả hơn được giới thiệu, cho phép điện trở đường dây lên đến 1000 ôm, xấp xỉ bán kính 3 dặm xung quanh tổng đài điện thoại.
+
+Tuy nhiên, ở Bắc Mỹ, nơi một số đường dây điện thoại nông thôn có thể dài tới 25 dặm (với nhiều người dùng cùng chia sẻ đường dây), điện thoại từ trường (Magneto) vẫn là loại điện thoại thống trị và duy trì vị thế đó cho đến tận những năm 1970 ở một số khu vực. Điện thoại từ trường sử dụng pin cục bộ, được đặt bên trong điện thoại hoặc ở gần đó, trong một hộp đựng.
+
+Ngày nay, tất cả các điện thoại đều thuộc loại CB, chỉ khác ở chỗ chúng có thêm cơ chế quay số hoặc bấm nút và được kết nối với hệ thống tự động.
+
+
+
+<p align="center">
+Kết nối thuê bao CB với thuê bao trên tổng đài tự động.
+<img src="hinh/tong-hop/cb_to_auto_1927.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="" alt="">
+</p>
+
+
 <p>
 Ngày 18.3.1860 : Đại tá hải quân Pháp Dariès được cử đến Sài Gòn, và không đầy một tháng sau, cụ thể là ngày 11.4.1860, ông ta thành lập tại thành phố này Phòng Bưu chính đầu tiên của người Pháp tại Đông Dương, được điều hành bởi viên chức hành thu thuế tại thành phố.
 </p>

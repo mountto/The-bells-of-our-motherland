@@ -8,6 +8,49 @@
 
 <div align="justify">
 
+Điện báo 
+
+Các tổng đài điện báo vận hành bằng tay với máy điện báo tự động đã được thành lập. Người đăng ký và người vận hành có thể liên lạc với nhau thông qua máy điện báo tự động. Các máy điện báo được kết nối với các tổng đài điện báo vận hành bằng tay và máy móc phải được bổ sung bằng một thiết bị gọi là máy quay số trung tâm để gọi và báo cáo, cũng như để đặt nút quay số.
+<p align="center">
+Tổng đài điện báo vận hành bằng tay
+<img src="hinh/tong-hop/Tổng đài điện báo vận hành bằng tay.jpg" alt="">
+</p>
+
+<p align="center">
+Máy điện báo tự động Siemens 
+<img src="hinh/tong-hop/máy điện báo tự động Siemens.jpg" alt="">
+</p>
+
+<p align="center">
+Máy điện báo tự động RFT
+<img src="hinh/tong-hop/máy điện báo tự động RFT.jpg" alt="">
+</p>
+
+Tổng đài telex tự động đầu tiên trung tâm điện cơ điện tử loại TW55 - tổng đài điện báo kiểu TW55 của Cộng hòa Dân chủ Đức.
+
+
+<p align="center">
+Khung kiểm tra của tổng đài điện báo hệ thống TW
+<img src="hinh/tong-hop/Khung kiểm tra của tổng đài điện báo hệ thống TW.jpg" alt="">
+</p>
+
+
+Các tổng đài chi nhánh và tổng đài đầu cuối đã được thành lập (Siemens TW 39, sau này là TW 55 RFT, rồi TWK 8).
+
+
+Trung tâm chuyển mạch dữ liệu và điện báo điện tử loại NEDIX-510A được mua từ công ty NEC của Nhật Bản.
+
+Trung tâm điện báo điện tử Siemens EDXS (telex, tgx và gentex).
+
+
+<p align="center">
+
+<img src="" alt="">
+</p>
+
+
+
+
 Hà Nội 
 
 

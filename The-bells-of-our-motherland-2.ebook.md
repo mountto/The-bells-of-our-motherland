@@ -37,6 +37,16 @@ Khung kiểm tra của tổng đài điện báo hệ thống TW
 
 Các tổng đài chi nhánh và tổng đài đầu cuối đã được thành lập (Siemens TW 39, sau này là TW 55 RFT, rồi TWK 8).
 
+Từ năm 1970 trở đi, các máy điện báo ngày càng hiện đại như Siemens T1002 và Olivetti được đưa vào mạng lưới.
+<p align="center">
+Siemens T1002
+<img src="" alt="">
+</p>
+<p align="center">
+Olivetti
+<img src="" alt="">
+</p>
+
 
 Trung tâm chuyển mạch dữ liệu và điện báo điện tử loại NEDIX-510A được mua từ công ty NEC của Nhật Bản.
 

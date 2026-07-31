@@ -173,12 +173,10 @@ Tổng đài nhân công 5 số của Pháp năm 1910 ở Hải Phòng
 
 
 <p align="center">
-Hà Nội, người Pháp sử dụng điện báo in sử dụng hệ thống do David Edward Hughe 
+Hà Nội, người Pháp sử dụng điện báo in sử dụng hệ thống do David Edward Hughes 
 <img src="hinh/bao-tang-vnpt/điện báo in sử dụng hệ thống do David Edward Hughe.jpg" alt="">
 </p>
 
-
-hinh/bao-tang-vnpt/điện báo in sử dụng hệ thống do David Edward Hughe.jpg
 
 
 

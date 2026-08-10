@@ -59,6 +59,18 @@ Tổng đài CB điện thoại nội hạt và đường dài có hẹn giờ c
 </p>
 
 
+<p align="center">
+Tổng đài (Pin cục bộ): Trong hệ thống này, mỗi trạm thuê bao cần có pin cục bộ riêng để cấp nguồn cho micro của thiết bị thuê bao.
+Tổng đài điện thoại (Pin cục bộ): Tổng đài điện thoại dành cho 70 người dùng.
+
+<img src="hinh/tong-hop/s12-ob-vermittlung1-950.jpg" alt="">
+</p>
+
+
+
+
+
+
 
 <p>
 Ngày 18.3.1860 : Đại tá hải quân Pháp Dariès được cử đến Sài Gòn, và không đầy một tháng sau, cụ thể là ngày 11.4.1860, ông ta thành lập tại thành phố này Phòng Bưu chính đầu tiên của người Pháp tại Đông Dương, được điều hành bởi viên chức hành thu thuế tại thành phố.

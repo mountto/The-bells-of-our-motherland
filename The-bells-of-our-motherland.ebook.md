@@ -50,6 +50,8 @@ Kết nối thuê bao CB với thuê bao trên tổng đài tự động.
 <img src="" alt="">
 </p>
 
+Tổng đài điện thoại nội hạt và đường dài có hẹn giờ cuộc gọi Các tổng đài điện thoại vận hành thủ công vẫn hoạt động trong các mạng lưới nông thôn nhỏ, hẻo lánh cho đến khi mạng lưới điện thoại được tự động hóa hoàn toàn.
+
 
 <p>
 Ngày 18.3.1860 : Đại tá hải quân Pháp Dariès được cử đến Sài Gòn, và không đầy một tháng sau, cụ thể là ngày 11.4.1860, ông ta thành lập tại thành phố này Phòng Bưu chính đầu tiên của người Pháp tại Đông Dương, được điều hành bởi viên chức hành thu thuế tại thành phố.

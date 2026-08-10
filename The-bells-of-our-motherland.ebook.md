@@ -50,7 +50,14 @@ Kết nối thuê bao CB với thuê bao trên tổng đài tự động.
 <img src="" alt="">
 </p>
 
-Tổng đài điện thoại nội hạt và đường dài có hẹn giờ cuộc gọi Các tổng đài điện thoại vận hành thủ công vẫn hoạt động trong các mạng lưới nông thôn nhỏ, hẻo lánh cho đến khi mạng lưới điện thoại được tự động hóa hoàn toàn.
+
+
+<p align="center">
+Tổng đài CB điện thoại nội hạt và đường dài có hẹn giờ cuộc gọi Các tổng đài điện thoại vận hành thủ công vẫn hoạt động trong các mạng lưới nông thôn nhỏ, hẻo lánh cho đến khi mạng lưới điện thoại được tự động hóa hoàn toàn.
+
+<img src="hinh/tong-hop/s17-zb-vermittlung2-900.jpg" alt="">
+</p>
+
 
 
 <p>

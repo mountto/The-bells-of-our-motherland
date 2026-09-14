@@ -148,28 +148,7 @@ Từ năm 1998, Bưu điện Lâm Đồng đã lắp đặt nhiều thiết bị
 
 
 
-Đà Nẵng 
 
-Trước năm 1975 Tổng đài tự động Pentaconta (PC1000) của Mỹ đặt tại Đà Nẵng. 
-
-
-
-Cần Thơ 
-
-<p align="center">
-Cô Nhơn Viên của Tống đài telephone Cần Thơ 1970
-
-<img src="hinh/tong-hop/Cô Nhơn Viên của Tống đài telephone Cần Thơ 1970.jpg" alt="">
-</p>
-
-
-
-Đồng Nai
-
-<p align="center">
-Nguyễn Thị Đẹp - tổng đài viên căn cứ QS Mỹ ở Đồng Nai năm 1968
-<img src="hinh/tong-hop/NgT Đẹp tổng đài viên căn cứ QS Mỹ ở Đồng Nai 1968.jpg" alt="">
-</p>
 
 
 

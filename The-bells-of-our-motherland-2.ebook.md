@@ -156,12 +156,12 @@ Thiết bị tần số sóng mang điện báo VT-5 ở phía trên và 2 cái 
 </p>
 
 <p align="center">
-
+Thiết bị truyền tải 8 kênh, cáp, tầm ngắn VBO-3/2 hay BO-3-2 
 <img src="hinh/vn-tonghop/20260915_100816.jpg" alt="">
 </p>
 
 <p align="center">
-
+Thiết bị truyền tải 8 kênh, cáp, tầm ngắn VBO-3/2 hay BO-3-2 
 <img src="hinh/vn-tonghop/20260915_101055.jpg" alt="">
 </p>
 

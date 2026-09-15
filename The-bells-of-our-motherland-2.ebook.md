@@ -175,47 +175,47 @@ Thiết bị truyền tải 8 kênh, cáp, tầm ngắn VBO-3/2 hay BO-3-2
 </p>
 
 <p align="center">
-
+Máy nắn dòng
 <img src="hinh/vn-tonghop/20260915_101208.jpg" alt="">
 </p>
 
 <p align="center">
-
+Tổng đài công điện 100 số
 <img src="hinh/vn-tonghop/20260915_101340.jpg" alt="">
 </p>
 
 <p align="center">
-
+Tổng đài công điện 100 số
 <img src="hinh/vn-tonghop/20260915_101359.jpg" alt="">
 </p>
 
 <p align="center">
-
+Máy nắn dòng và nguồn
 <img src="hinh/vn-tonghop/20260915_101519.jpg" alt="">
 </p>
 
 <p align="center">
-
+Tổng thể hệ thống cùng Hộp Bảo an và Tủ phối cáp
 <img src="hinh/vn-tonghop/20260915_101648.jpg" alt="">
 </p>
 
 <p align="center">
-
+Máy điện báo chạy bằng máy phát điện quay bằng tay 
 <img src="hinh/vn-tonghop/20260915_102734.jpg" alt="">
 </p>
 
 <p align="center">
-
+Máy điện báo chạy bằng máy phát điện quay bằng tay, cùng với tổng đài công điện
 <img src="hinh/vn-tonghop/20260915_102826.jpg" alt="">
 </p>
 
 <p align="center">
-
+Tổng đài công điện 100 số
 <img src="hinh/vn-tonghop/20260915_102916.jpg" alt="">
 </p>
 
 <p align="center">
-
+Tổng đài viên ngồi trước tổng đài công điện 
 <img src="hinh/vn-tonghop/20260915_103010.jpg" alt="">
 </p>
 <p align="center">

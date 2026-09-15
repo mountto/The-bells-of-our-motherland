@@ -48,13 +48,13 @@ Olivetti
 </p>
 
 
-Trung tâm chuyển mạch dữ liệu và điện báo điện tử loại NEDIX-510A được mua từ công ty NEC của Nhật Bản.
+Trung tâm chuyển mạch dữ liệu và điện báo điện tử loại NEDIX-510A được mua từ công ty NEC của Nhật Bản. (lúc bấy giờ Việt Nam không sử dụng)
 <p align="center">
 
 <img src="" alt="">
 </p>
 
-Trung tâm điện báo điện tử Siemens EDXS (telex, tgx và gentex).
+Trung tâm điện báo điện tử Siemens EDXS (telex, tgx và gentex).(lúc bấy giờ Việt Nam không sử dụng)
 
 <p align="center">
 Siemens EDXS và Netrix Network Exchange (Nx) 2550
@@ -219,7 +219,7 @@ Tổng đài viên ngồi trước tổng đài công điện
 <img src="hinh/vn-tonghop/20260915_103010.jpg" alt="">
 </p>
 <p align="center">
-
+Máy viễn tín (teleprinter / telex machine), cụ thể là mẫu máy do hãng RFT sản xuất (một thương hiệu thiết bị điện tử và viễn thông lớn của Đông Đức trước đây)
 <img src="hinh/vn-tonghop/20260915_103218.jpg" alt="">
 </p>
 

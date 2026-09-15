@@ -166,12 +166,18 @@ Thiết bị truyền tải 8 kênh, cáp, tầm ngắn VBO-3/2 hay BO-3-2
 </p>
 
 <p align="center">
-
-<img src="" alt="">
+Thiết bị tần số sóng mang điện báo VT-1-4
+<img src="hinh/vn-tonghop/Screenshot_20260915_110858_Adobe Acrobat.jpg" alt="">
 </p>
-<p align="center">
 
-<img src="" alt="">
+<p align="center">
+Thiết bị tần số sóng mang điện báo VT-1-4
+<img src="hinh/vn-tonghop/Screenshot_20260915_113859_Gallery.jpg" alt="">
+</p>
+
+<p align="center">
+Bộ rẽ máy tải ba TCT1-2 Hungary-1980
+<img src="hinh/vn-tonghop/Screenshot_20260915_113906_Gallery.jpg" alt="">
 </p>
 
 <p align="center">

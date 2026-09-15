@@ -150,6 +150,78 @@ Từ năm 1998, Bưu điện Lâm Đồng đã lắp đặt nhiều thiết bị
 
 
 
+<p align="center">
+Thiết bị tần số sóng mang điện báo VT-5 ở phía trên và 2 cái dưới là Thiết bị tần số sóng mang TCT 1-2
+<img src="hinh/vn-tonghop/20260915_100720.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_100816.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_101055.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="" alt="">
+</p>
+<p align="center">
+
+<img src="" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_101208.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_101340.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_101359.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_101519.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_101648.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_102734.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_102826.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_102916.jpg" alt="">
+</p>
+
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_103010.jpg" alt="">
+</p>
+<p align="center">
+
+<img src="hinh/vn-tonghop/20260915_103218.jpg" alt="">
+</p>
 
 
 
@@ -157,7 +229,10 @@ Từ năm 1998, Bưu điện Lâm Đồng đã lắp đặt nhiều thiết bị
 
 <img src="" alt="">
 </p>
+<p align="center">
 
+<img src="" alt="">
+</p>
 
 
 </div>

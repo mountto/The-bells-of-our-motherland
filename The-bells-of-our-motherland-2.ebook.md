@@ -196,7 +196,7 @@ Tổng đài công điện 100 số
 </p>
 
 <p align="center">
-Máy nắn dòng và nguồn
+Máy nắn dòng và Bộ khuếch đại 
 <img src="hinh/vn-tonghop/20260915_101519.jpg" alt="">
 </p>
 

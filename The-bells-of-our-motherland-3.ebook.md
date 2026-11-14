@@ -7,6 +7,42 @@
 
 
 <div align="justify">
+
+Cuối năm 1968:
+The Tandem Switching Centers (TSC) Trạm Chuyển mạch Trung kế - Tandem Switch.
+AMSF là viết tắt của Area Maintenance and Supply Facility (Cơ sở Bảo trì và Tiếp vận Khu vực).
+"Vị trí các AMSF và Trạm Chuyển mạch Trung kế" (AMSF and Tandem Switch Locations).
+
+
+Miền Nam Việt Nam
+
+• AMSF, Cam Ranh Bay (Proposed): Cơ sở bảo trì và tiếp vận khu vực dự kiến xây dựng tại Vịnh Cam Ranh ở bờ biển miền Trung.
+• AMSF, Long Binh: Trung tâm hậu cần và tiếp vận lớn đặt tại Long Bình, gần Sài Gòn.
+• Site A, Can Tho: Trạm chuyển mạch trung kế tại Cần Thơ, khu vực Đồng bằng sông Cửu Long.
+• Site B, Tan Son Nhut: Trạm chuyển mạch trung kế tại căn cứ không quân lớn Tân Sơn Nhất ở ngoại ô Sài Gòn.
+• Site C, Nha Trang: Trạm chuyển mạch trung kế tại Nha Trang dọc theo bờ biển Nam Trung Bộ.
+• Site D, Vung Chua: Trạm chuyển mạch trung kế tại Vũng Chua, nằm gần Quy Nhơn ở bờ biển miền Trung.
+• Site E, Danang: Trạm chuyển mạch trung kế tại Đà Nẵng, thuộc vùng chiến thuật Quân đoàn I ở phía bắc.
+• Site F, Pleiku: Trạm chuyển mạch trung kế tại Pleiku thuộc khu vực Tây Nguyên.
+
+Thái Lan
+
+• AMSF, Bangkok: Cơ sở bảo trì và tiếp vận chính tại Băng Cốc nhằm hỗ trợ các hoạt động quân sự ở Thái Lan.
+• Site G, Bang Pla: Trạm chuyển mạch trung kế tại Bang Pla, nằm ở phía đông nam Băng Cốc.
+• Site H, Korat: Trạm chuyển mạch trung kế tại Korat thuộc vùng đông bắc Thái Lan (tỉnh Nakhon Ratchasima).
+• Site I, Warin: Trạm chuyển mạch trung kế tại Warin thuộc miền đông Thái Lan (huyện Warin Chamrap, gần Ubon Ratchathani).
+
+
+
+
+
+
+
+
+
+
+
+
 Mùa thu năm 1961:
 Malcolm W. Browne trở thành phóng viên tại Sài Gòn của hãng thông tấn Associated Press.
 

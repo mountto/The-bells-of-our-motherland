@@ -14,7 +14,14 @@ The Tandem Switching Centers (TSC) Trạm Chuyển mạch Trung kế - Tandem Sw
 
 AMSF là viết tắt của Area Maintenance and Supply Facility (Cơ sở Bảo trì và Tiếp vận Khu vực).
 
+
+<p align="center">
 "Vị trí các AMSF và Trạm Chuyển mạch Trung kế" (AMSF and Tandem Switch Locations).
+
+<img src="hinh/my/675d8bcf-9519-4c8a-8f7e-10edd1749a49.png" alt="">
+</p>
+
+
 
 
 Miền Nam Việt Nam

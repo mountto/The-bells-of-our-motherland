@@ -53,8 +53,11 @@ Thái Lan
 • Site I, Warin: Trạm chuyển mạch trung kế tại Warin thuộc miền đông Thái Lan (huyện Warin Chamrap, gần Ubon Ratchathani).
 
 
-The Tandem Switching Centers (TSC) Trạm Chuyển mạch Trung kế sử dụng Stromberg Carlson XY System.
 
+<p align="center">
+The Tandem Switching Centers (TSC) Trạm Chuyển mạch Trung kế sử dụng Stromberg Carlson XY System.
+<img src="hinh/my/Screenshot_20261115_121757_YouTube.jpg" alt="">
+</p>
 
 
 

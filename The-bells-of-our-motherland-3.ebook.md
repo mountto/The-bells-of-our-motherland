@@ -11,6 +11,7 @@ Sự tham gia của các lực lượng quân sự Hoa Kỳ tại Việt Nam b�
 
 
 
+CÁC KẾT NỐI THÔNG TIN LIÊN LẠC VỚI VIỆT NAM.
 
 Các phương tiện thông tin liên lạc hiện đại gần như hoàn toàn vắng bóng tại miền Nam Việt Nam cho đến khi các dự án phát triển quân sự quy mô lớn của Hoa Kỳ, cùng với các chương trình viện trợ dân sự, bắt đầu triển khai vào đầu thập niên 1960. Trước đó, chỉ tồn tại một số dịch vụ vô tuyến thương mại kết nối trong và ngoài nước, cùng hệ thống điện thoại hạn chế do Pháp thiết lập (thông qua cơ quan Bưu điện, Điện báo và Điện thoại - PTT) tại một vài đô thị lớn. Những cơ sở hạ tầng này rất hạn chế cả về chất lượng lẫn số lượng. Các kết nối liên tỉnh và quốc tế chủ yếu được vận hành theo lịch trình cố định nhưng không liên tục, thông qua sóng vô tuyến tần số cao (HF). Do đó, để thiết lập hệ thống thông tin liên lạc, cần phải xây dựng mọi thứ gần như từ con số không.
 
@@ -29,6 +30,15 @@ Các liên kết đến Bangkok. Trong năm 1963 và 1964, nhiều nỗ lực đ
  Các cơ sở phục vụ người dùng chung (Common-User Facilities). Đến cuối năm 1964, các dịch vụ thông tin liên lạc dành cho lưu lượng thông tin chung (common-user traffic) kết nối ra nước ngoài được cung cấp thông qua cơ sở Phú Lâm, nằm ở ngoại ô Sài Gòn. Tại đây đặt Tổng đài Liên lạc Quốc tế Chung (Joint Overseas Switchboard - JOSS), cho phép người dùng thực hiện các cuộc gọi thoại vào Việt Nam; ngoài ra còn có một trạm chuyển tiếp thông điệp bằng băng giấy (torn-tape relay) quy mô lớn, được thiết lập từ ngày 7 tháng 1 năm 1964. Mặc dù vào năm 1964 đã tồn tại một mạng lưới chuyển tiếp dữ liệu thủ công tại khu vực Thái Bình Dương, nhưng cơ sở Phú Lâm chỉ đóng vai trò là điểm cuối (terminal) chứ không phải là trạm chuyển tiếp (relay).
 
 
+CÁC KẾT NỐI THÔNG TIN LIÊN LẠC TẠI VIỆT NAM.
+
+ Vào thời điểm Hoa Kỳ bắt đầu can thiệp, hệ thống thông tin liên lạc tại Việt Nam gần như không tồn tại. Để tạo khả năng liên lạc ban đầu cho các đơn vị Hoa Kỳ đang phối hợp với lực lượng quân sự địa phương, các mạng vô tuyến sóng ngắn (HF) sơ khai đã được thiết lập nhằm duy trì liên lạc với các phân đội cố vấn quân sự. Các mạng này bao gồm cả hình thức điện báo vô tuyến (sử dụng thiết bị AN/GRC-26) và liên lạc thoại (sử dụng các thiết bị thương mại). Do cơ sở hạ tầng thông tin liên lạc tại Việt Nam cực kỳ hạn chế, hai yêu cầu riêng biệt đã đặt ra đối với các hệ thống quân sự đa kênh đường dài: thứ nhất là một hệ thống "trục chính" (backbone) cơ bản; thứ hai là các hệ thống mở rộng mang tính cơ động.
+
+ Các kết nối trục chính. Để xây dựng một trục chính cơ bản cung cấp dịch vụ điện thoại chất lượng cao cùng nhiều kênh liên lạc cho cả người dùng quân sự lẫn chính quyền dân sự, vào năm 1962, Bộ trưởng Quốc phòng Hoa Kỳ đã phê duyệt việc lắp đặt một hệ thống vô tuyến tán xạ tầng đối lưu (tropo) trị giá hàng triệu đô la, có tên là BACK PORCH. Hệ thống này do Không quân Hoa Kỳ xây dựng với chi phí 14 triệu đô la, sử dụng thiết bị AN/MRC-85 công suất 10 kW với 72 kênh, có khả năng truyền và nhận tín hiệu trên mỗi chặng với khoảng cách lên tới 200 dặm (khoảng 320 km). Hệ thống này được hoàn thành vào tháng 10 năm 1962.
+
+ Các hệ thống mở rộng chiến thuật. Để bổ sung khả năng mở rộng cơ động cho hệ thống BACK PORCH, Lục quân Hoa Kỳ đã triển khai 14 bộ thiết bị vô tuyến tán xạ tầng đối lưu (tropo) chiến thuật loại AN/TRC-90 tới Việt Nam vào năm 1962. Các thiết bị này cung cấp 24 kênh liên lạc thoại. Ngoài hệ thống tropo chiến thuật, các phương thức liên lạc VHF và vi ba (microwave) chiến thuật cũng được sử dụng để kết nối các mạch liên lạc quân sự vào hệ thống BACK PORCH.
+
+ Các hệ thống thương mại. Bên cạnh những hệ thống nêu trên, một hệ thống vi ba thương mại có tên là SOUTHERN TOLL, mở rộng đến khu vực đồng bằng, đã được hoàn thành trong năm 1964. Hệ thống này được xây dựng bằng nguồn vốn từ Cơ quan Phát triển Quốc tế Hoa Kỳ (AID), kết nối Sài Gòn với Mỹ Tho, Vĩnh Long, Cần Thơ, Sóc Trăng, Long Xuyên và Rạch Giá.
 
 
 

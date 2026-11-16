@@ -7,6 +7,14 @@
 
 
 <div align="justify">
+Sự tham gia của các lực lượng quân sự Hoa Kỳ tại Việt Nam bắt đầu từ ngày 23 tháng 12 năm 1950, khi Hoa Kỳ ký một hiệp định năm bên với Pháp, Việt Nam, Campuchia và Lào. Hiệp định này cung cấp viện trợ quân sự gián tiếp của Hoa Kỳ cho các quốc gia nêu trên, đồng thời thiết lập một Nhóm Cố vấn Viện trợ Quân sự Hoa Kỳ (MAAG) tại Sài Gòn. Trong những năm đầu thập niên 1950, các lực lượng Việt Minh đã giành quyền kiểm soát miền Bắc; khu vực này sau đó bị tách khỏi miền Nam tại ranh giới gần vĩ tuyến 17 vào ngày 26 tháng 12 năm 1953. Ngày 7 tháng 5 năm 1954, Điện Biên Phủ thất thủ, và không lâu sau đó, các lực lượng Pháp đã rút khỏi Việt Nam. Tiếp đó, khi áp lực gia tăng trên khắp khu vực Đông Nam Á, Hoa Kỳ đã liên tục mở rộng các hoạt động cố vấn nhằm hỗ trợ các lực lượng vũ trang của Việt Nam Cộng hòa. Vào tháng 2 năm 1962, tổ chức MAAG tại Việt Nam – vốn đang ngày càng lớn mạnh – đã được chuyển đổi thành Bộ Chỉ huy Viện trợ Quân sự Hoa Kỳ tại Việt Nam (MACV), đặt dưới quyền chỉ huy của Tướng Paul B. Harkins. Đến ngày 31 tháng 12 năm 1964, tổng số quân nhân Hoa Kỳ thuộc mọi quân chủng tại Việt Nam Cộng hòa đã tăng lên khoảng 23.000 người.
+
+
+
+
+
+
+
 
 Cuối năm 1968:
 

@@ -41,6 +41,11 @@ CÁC KẾT NỐI THÔNG TIN LIÊN LẠC TẠI VIỆT NAM.
  Các hệ thống thương mại. Bên cạnh những hệ thống nêu trên, một hệ thống vi ba thương mại có tên là SOUTHERN TOLL, mở rộng đến khu vực đồng bằng, đã được hoàn thành trong năm 1964. Hệ thống này được xây dựng bằng nguồn vốn từ Cơ quan Phát triển Quốc tế Hoa Kỳ (AID), kết nối Sài Gòn với Mỹ Tho, Vĩnh Long, Cần Thơ, Sóc Trăng, Long Xuyên và Rạch Giá.
 
 
+THÔNG TIN LIÊN LẠC HẠM ĐỘI.
+
+ Tại chiến trường Việt Nam, Hải quân Hoa Kỳ duy trì các phương thức liên lạc hạm đội tiêu chuẩn—bao gồm phát tin hạm đội, liên lạc giữa các tàu với nhau và giữa tàu với bờ—dành cho các đơn vị thuộc Hạm đội 7. Các thông điệp gửi đến các đơn vị hạm đội được truyền qua kênh phát tin hạm đội mà tất cả các tàu đều bắt buộc phải thu nhận. Kênh phát tin này được vận hành bởi các Trạm Thông tin Liên lạc Hải quân (Naval Communications Stations), vốn chịu trách nhiệm bao quát các vùng đại dương được chỉ định. Các tàu hải quân đang hoạt động trên biển sẽ chuyển thông điệp đi đến Trạm Thông tin Liên lạc Hải quân (NAVCOMMSTA) gần nhất; trạm này sau đó có trách nhiệm chuyển tiếp thông điệp thông qua Hệ thống Thông tin Liên lạc Hải quân, các mạch truyền dẫn thuộc Hệ thống Thông tin Liên lạc Quốc phòng (DCS), hoặc các phương thức sẵn có khác. Tính đến ngày 1 tháng 1 năm 1965, các trạm NAVCOMMSTA tại Philippines, Guam và Nhật Bản là những đơn vị đóng vai trò chủ chốt trong công tác thông tin liên lạc phục vụ Hạm đội 7.
+
+
 
 
 
